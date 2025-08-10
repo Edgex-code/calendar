@@ -1,20 +1,77 @@
 [
   {
-    "id": "1",
-  "name": "US Non-Farm Payrolls",
-  "description": "Monthly employment report, major market mover.",
-  "actual": "185K",
-  "consensus": "180K",
-  "previous": "200K",
-  "date": "Monday"
-  },
-   {
-    "id": "2",
-  "name": "US CPI",
-  "description": "Monthly inflation data that significantly impacts Fed policy decisions and market sentiment",
-  "actual": "3.2%",
-  "consensus": "3.3%",
-  "previous": "3.5%",
-  "date": "Tuesday"
-  },
+    "week": 1,
+    "weekTitle": "Week of January 6-10, 2025",
+    "days": [
+      {
+        "date": "Monday",
+        "events": [
+          {
+            "id": "1",
+            "name": "US Non-Farm Payrolls",
+            "description": "Monthly employment report, major market mover.",
+            "actual": "185K",
+            "consensus": "180K",
+            "previous": "200K"
+          },
+          {
+            "id": "2",
+            "name": "ECB Interest Rate Decision",
+            "description": "European Central Bank monetary policy decision affecting EUR and European markets.",
+            "consensus": "4.25%",
+            "previous": "4.50%"
+          }
+        ]
+      },
+      {
+        "date": "Tuesday",
+        "events": [
+          {
+            "id": "3",
+            "name": "US Consumer Price Index (CPI)",
+            "description": "Monthly inflation data that significantly impacts Fed policy decisions and market sentiment.",
+            "actual": "3.2%",
+            "consensus": "3.3%",
+            "previous": "3.5%"
+          }
+        ]
+      },
+      {
+        "date": "Wednesday",
+        "events": [
+          {
+            "id": "4",
+            "name": "UK GDP Growth Rate",
+            "description": "Quarterly economic growth data indicating UK economic health and recovery momentum.",
+            "consensus": "0.2%",
+            "previous": "0.1%"
+          }
+        ]
+      },
+      {
+        "date": "Thursday",
+        "events": [
+          {
+            "id": "5",
+            "name": "Japan Core Inflation Rate",
+            "description": "Core inflation excluding fresh food, key indicator for Bank of Japan policy direction.",
+            "consensus": "2.8%",
+            "previous": "2.7%"
+          }
+        ]
+      },
+      {
+        "date": "Friday",
+        "events": [
+          {
+            "id": "6",
+            "name": "China Manufacturing PMI",
+            "description": "Manufacturing activity indicator showing economic expansion or contraction.",
+            "consensus": "50.1",
+            "previous": "49.8"
+          }
+        ]
+      }
+    ]
+  }
 ]
