@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+  "name": "US Non-Farm Payrolls",
+  "description": "Monthly employment report, major market mover.",
+  "actual": "185K",
+  "consensus": "180K",
+  "previous": "200K",
+  "date": "Monday"
+  },
+   {
+    "id": "2",
+  "name": "US CPI",
+  "description": "Monthly inflation data that significantly impacts Fed policy decisions and market sentiment",
+  "actual": "3.2%",
+  "consensus": "3.3%",
+  "previous": "3.5%",
+  "date": "Tuesday"
+  },
+]
