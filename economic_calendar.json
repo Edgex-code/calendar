@@ -1,94 +1,111 @@
 [
   {
-  "week": 1,
-  "weekTitle": "Week of January 12-16, 2026",
-  "days": [
-    {
-      "date": "Monday",
-      "events": []
-    },
-    {
-      "date": "Tuesday",
-      "events": [
-        {
-          "id": "1",
-          "name": "US CPI (Y-o-Y)",
-          "description": "Core consumer inflation measure indicating price pressures excluding volatile items.",
-          "actual": "",
-          "consensus": "2.7%",
-          "previous": "2.6%"
-        },
-      ]
-    },
-    {
-      "date": "Wednesday",
-      "events": [
-        {
-          "id": "2",
-          "name": "US Producer Price Index (PPI) (Y-o-Y)",
-          "description": "Measures wholesale inflation and early pricing pressures in the economy.",
-          "actual": "",
-          "consensus": "",
-          "previous": "2.7%"
-        },
-        {
-          "id": "3",
-          "name": "US Producer Price Index (M-o-M)",
-          "description": "Monthly change in producer prices affecting cost conditions.",
-          "actual": "",
-          "consensus": "",
-          "previous": "0.3%"
-        },
-      ]
-    },
-    {
-      "date": "Thursday",
-      "events": [
-        {
-          "id": "4",
-          "name": "US Retail Sales",
-          "description": "Monthly measure of consumer spending, a key GDP driver.",
-          "actual": "",
-          "consensus": "",
-          "previous": ""
-        },
-        {
-          "id": "5",
-          "name": "UK Trade Balance",
-          "description": "Difference between exports and imports, indicating external demand.",
-          "actual": "",
-          "consensus": "",
-          "previous": ""
-        },
-        {
-          "id": "6",
-          "name": "Eurozone Industrial Production (M-o-M)",
-          "description": "Monthly change in euro area industrial output.",
-          "actual": "",
-          "consensus": "",
-          "previous": ""
-        },
-      ]
-    },
-    {
-      "date": "Friday",
-      "events": [
-        {
-          "id": "7",
-          "name": "Eurozone CPI (YoY)",
-          "description": "Headline consumer inflation measure for the euro area.",
-          "actual": "",
-          "consensus": "3.2%",
-          "previous": ""
-        },
-        {
-          "id": "8",
-          "name": "Eurozone Exports/Imports/Trade Balance",
-          "description": "Detailed euro area external sector statistics.",
-          "actual": "",
-          "consensus": "",
-          "previous": ""
-        }
+    "week": 2,
+    "weekTitle": "Week of January 19-23, 2026",
+    "days": [
+      {
+        "date": "Monday",
+        "events": [
+          {
+            "id": "1",
+            "name": "China GDP (Y-o-Y) (Q4)",
+            "description": "Measures the annual change in the value of all goods and services produced by the Chinese economy.",
+            "actual": "",
+            "consensus": "4.5%",
+            "previous": "4.8%"
+          },
+          {
+            "id": "2",
+            "name": "Canada CPI (Y-o-Y) (Dec)",
+            "description": "Measures the inflation rate for Canadian consumers, influencing the Bank of Canada's interest rate path.",
+            "actual": "",
+            "consensus": "2.1%",
+            "previous": "2.2%"
+          }
+        ]
+      },
+      {
+        "date": "Tuesday",
+        "events": [
+          {
+            "id": "3",
+            "name": "UK Unemployment Rate (Nov)",
+            "description": "The percentage of the total British workforce that is unemployed and actively seeking employment.",
+            "actual": "",
+            "consensus": "5.1%",
+            "previous": "5.0%"
+          },
+          {
+            "id": "4",
+            "name": "UK Average Earnings Index (Nov)",
+            "description": "Tracks the change in the price businesses pay for labor, a key indicator of wage-push inflation.",
+            "actual": "",
+            "consensus": "4.6%",
+            "previous": "4.7%"
+          }
+        ]
+      },
+      {
+        "date": "Wednesday",
+        "events": [
+          {
+            "id": "5",
+            "name": "UK CPI (Y-o-Y) (Dec)",
+            "description": "The primary measure of inflation in the UK, tracking price changes for a basket of consumer goods.",
+            "actual": "",
+            "consensus": "3.3%",
+            "previous": "3.2%"
+          },
+          {
+            "id": "6",
+            "name": "US Existing Home Sales (Dec)",
+            "description": "Measures the number of previously owned residential buildings sold, reflecting the health of the US housing market.",
+            "actual": "",
+            "consensus": "3.90M",
+            "previous": "3.85M"
+          }
+        ]
+      },
+      {
+        "date": "Thursday",
+        "events": [
+          {
+            "id": "7",
+            "name": "US GDP (Q-o-Q) (Q4)",
+            "description": "The 'Advance' estimate of the annualized growth rate of the US economy for the final quarter of 2025.",
+            "actual": "",
+            "consensus": "4.3%",
+            "previous": "2.8%"
+          },
+          {
+            "id": "8",
+            "name": "US Initial Jobless Claims",
+            "description": "A weekly report of individuals filing for unemployment insurance, serving as a real-time labor market gauge.",
+            "actual": "",
+            "consensus": "203K",
+            "previous": "198K"
+          }
+        ]
+      },
+      {
+        "date": "Friday",
+        "events": [
+          {
+            "id": "9",
+            "name": "BoJ Interest Rate Decision",
+            "description": "The Bank of Japan announces its short-term interest rate target and updates its monetary policy stance.",
+            "actual": "",
+            "consensus": "0.75%",
+            "previous": "0.75%"
+          },
+          {
+            "id": "10",
+            "name": "UK Retail Sales (M-o-M) (Dec)",
+            "description": "Measures the change in the total value of sales at the retail level, a proxy for consumer spending.",
+            "actual": "",
+            "consensus": "-0.2%",
+            "previous": "-0.1%"
+          }
         ]
       }
     ]
