@@ -1,113 +1,113 @@
 [
-  {
-    "week": 2,
-    "weekTitle": "Week of January 19-23, 2026",
-    "days": [
-      {
-        "date": "Monday",
-        "events": [
-          {
-            "id": "1",
-            "name": "China GDP (Y-o-Y) (Q4)",
-            "description": "Measures the annual change in the value of all goods and services produced by the Chinese economy.",
-            "actual": "",
-            "consensus": "4.5%",
-            "previous": "4.8%"
-          },
-          {
-            "id": "2",
-            "name": "Canada CPI (Y-o-Y) (Dec)",
-            "description": "Measures the inflation rate for Canadian consumers, influencing the Bank of Canada's interest rate path.",
-            "actual": "",
-            "consensus": "2.1%",
-            "previous": "2.2%"
-          }
-        ]
-      },
-      {
-        "date": "Tuesday",
-        "events": [
-          {
-            "id": "3",
-            "name": "UK Unemployment Rate (Nov)",
-            "description": "The percentage of the total British workforce that is unemployed and actively seeking employment.",
-            "actual": "",
-            "consensus": "5.1%",
-            "previous": "5.0%"
-          },
-          {
-            "id": "4",
-            "name": "UK Average Earnings Index (Nov)",
-            "description": "Tracks the change in the price businesses pay for labor, a key indicator of wage-push inflation.",
-            "actual": "",
-            "consensus": "4.6%",
-            "previous": "4.7%"
-          }
-        ]
-      },
-      {
-        "date": "Wednesday",
-        "events": [
-          {
-            "id": "5",
-            "name": "UK CPI (Y-o-Y) (Dec)",
-            "description": "The primary measure of inflation in the UK, tracking price changes for a basket of consumer goods.",
-            "actual": "",
-            "consensus": "3.3%",
-            "previous": "3.2%"
-          },
-          {
-            "id": "6",
-            "name": "US Existing Home Sales (Dec)",
-            "description": "Measures the number of previously owned residential buildings sold, reflecting the health of the US housing market.",
-            "actual": "",
-            "consensus": "3.90M",
-            "previous": "3.85M"
-          }
-        ]
-      },
-      {
-        "date": "Thursday",
-        "events": [
-          {
-            "id": "7",
-            "name": "US GDP (Q-o-Q) (Q4)",
-            "description": "The 'Advance' estimate of the annualized growth rate of the US economy for the final quarter of 2025.",
-            "actual": "",
-            "consensus": "4.3%",
-            "previous": "2.8%"
-          },
-          {
-            "id": "8",
-            "name": "US Initial Jobless Claims",
-            "description": "A weekly report of individuals filing for unemployment insurance, serving as a real-time labor market gauge.",
-            "actual": "",
-            "consensus": "203K",
-            "previous": "198K"
-          }
-        ]
-      },
-      {
-        "date": "Friday",
-        "events": [
-          {
-            "id": "9",
-            "name": "BoJ Interest Rate Decision",
-            "description": "The Bank of Japan announces its short-term interest rate target and updates its monetary policy stance.",
-            "actual": "",
-            "consensus": "0.75%",
-            "previous": "0.75%"
-          },
-          {
-            "id": "10",
-            "name": "UK Retail Sales (M-o-M) (Dec)",
-            "description": "Measures the change in the total value of sales at the retail level, a proxy for consumer spending.",
-            "actual": "",
-            "consensus": "-0.2%",
-            "previous": "-0.1%"
-          }
-        ]
-      }
-    ]
-  }
+{
+  "week": 3,
+  "weekTitle": "Week of January 26-30, 2026",
+  "days": [
+    {
+      "date": "Monday, 26 January 2026",
+      "events": [
+        {
+          "id": "1",
+          "name": "Germany Ifo Business Climate Index (Jan)",
+          "description": "Tracks German business sentiment, a key leading indicator for Eurozone growth expectations.",
+          "actual": "",
+          "consensus": "88.3",
+          "previous": "87.6"
+        },
+        {
+          "id": "2",
+          "name": "US Core Durable Goods Orders (MoM) (Nov)",
+          "description": "Measures monthly change in core durable goods orders, signaling underlying business investment momentum.",
+          "actual": "",
+          "consensus": "0.3%",
+          "previous": "0.1%"
+        }
+      ]
+    },
+    {
+      "date": "Tuesday, 27 January 2026",
+      "events": [
+        {
+          "id": "3",
+          "name": "US CB Consumer Confidence (Jan)",
+          "description": "Survey-based gauge of consumer optimism that can influence spending and near-term economic activity.",
+          "actual": "",
+          "consensus": "90.1",
+          "previous": "89.1"
+        },
+        {
+          "id": "4",
+          "name": "US Richmond Fed Manufacturing Index (Jan)",
+          "description": "Regional manufacturing activity indicator offering insight into US industrial conditions.",
+          "actual": "",
+          "consensus": "",
+          "previous": ""
+        }
+      ]
+    },
+    {
+      "date": "Wednesday, 28 January 2026",
+      "events": [
+        {
+          "id": "5",
+          "name": "Australia CPI (Q4)",
+          "description": "Quarterly inflation measure shaping expectations for RBA policy and future interest-rate settings.",
+          "actual": "",
+          "consensus": "",
+          "previous": ""
+        },
+        {
+          "id": "6",
+          "name": "Fed Interest Rate Decision",
+          "description": "Federal Reserve policy decision that guides US financial conditions and global market pricing.",
+          "actual": "",
+          "consensus": "3.75%",
+          "previous": "3.75%"
+        }
+      ]
+    },
+    {
+      "date": "Thursday, 29 January 2026",
+      "events": [
+        {
+          "id": "7",
+          "name": "US Trade Balance (Nov)",
+          "description": "Measures the difference between US exports and imports, indicating the trade sector’s contribution to economic growth.",
+          "actual": "",
+          "consensus": "-44.50B",
+          "previous": "-29.40B"
+        },
+        {
+          "id": "8",
+          "name": "US Initial Jobless Claims",
+          "description": "Weekly count of new unemployment claims, providing a timely read on US labor-market conditions.",
+          "actual": "",
+          "consensus": "202K",
+          "previous": "200K"
+        }
+      ]
+    },
+    {
+      "date": "Friday, 30 January 2026",
+      "events": [
+        {
+          "id": "9",
+          "name": "Eurozone GDP (Q-o-Q) (Q4)",
+          "description": "Early estimate of Eurozone growth, guiding expectations for ECB policy and regional demand.",
+          "actual": "",
+          "consensus": "0.2%",
+          "previous": "0.3%"
+        },
+        {
+          "id": "10",
+          "name": "US PPI (MoM) (Dec)",
+          "description": "Measures producer-level inflation pressures, which can feed into consumer prices over time.",
+          "actual": "",
+          "consensus": "0.2%",
+          "previous": "0.2%"
+        }
+      ]
+    }
+  ]
+}
 ]
