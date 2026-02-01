@@ -1,113 +1,113 @@
 [
-{
-  "week": 3,
-  "weekTitle": "Week of January 26-30, 2026",
-  "days": [
-    {
-      "date": "Monday, 26 January 2026",
-      "events": [
-        {
-          "id": "1",
-          "name": "Germany Ifo Business Climate Index (Jan)",
-          "description": "Tracks German business sentiment, a key leading indicator for Eurozone growth expectations.",
-          "actual": "",
-          "consensus": "88.3",
-          "previous": "87.6"
-        },
-        {
-          "id": "2",
-          "name": "US Core Durable Goods Orders (MoM) (Nov)",
-          "description": "Measures monthly change in core durable goods orders, signaling underlying business investment momentum.",
-          "actual": "",
-          "consensus": "0.3%",
-          "previous": "0.1%"
-        }
-      ]
-    },
-    {
-      "date": "Tuesday, 27 January 2026",
-      "events": [
-        {
-          "id": "3",
-          "name": "US CB Consumer Confidence (Jan)",
-          "description": "Survey-based gauge of consumer optimism that can influence spending and near-term economic activity.",
-          "actual": "",
-          "consensus": "90.1",
-          "previous": "89.1"
-        },
-        {
-          "id": "4",
-          "name": "US Richmond Fed Manufacturing Index (Jan)",
-          "description": "Regional manufacturing activity indicator offering insight into US industrial conditions.",
-          "actual": "",
-          "consensus": "",
-          "previous": ""
-        }
-      ]
-    },
-    {
-      "date": "Wednesday, 28 January 2026",
-      "events": [
-        {
-          "id": "5",
-          "name": "Australia CPI (Q4)",
-          "description": "Quarterly inflation measure shaping expectations for RBA policy and future interest-rate settings.",
-          "actual": "",
-          "consensus": "",
-          "previous": ""
-        },
-        {
-          "id": "6",
-          "name": "Fed Interest Rate Decision",
-          "description": "Federal Reserve policy decision that guides US financial conditions and global market pricing.",
-          "actual": "",
-          "consensus": "3.75%",
-          "previous": "3.75%"
-        }
-      ]
-    },
-    {
-      "date": "Thursday, 29 January 2026",
-      "events": [
-        {
-          "id": "7",
-          "name": "US Trade Balance (Nov)",
-          "description": "Measures the difference between US exports and imports, indicating the trade sector’s contribution to economic growth.",
-          "actual": "",
-          "consensus": "-44.50B",
-          "previous": "-29.40B"
-        },
-        {
-          "id": "8",
-          "name": "US Initial Jobless Claims",
-          "description": "Weekly count of new unemployment claims, providing a timely read on US labor-market conditions.",
-          "actual": "",
-          "consensus": "202K",
-          "previous": "200K"
-        }
-      ]
-    },
-    {
-      "date": "Friday, 30 January 2026",
-      "events": [
-        {
-          "id": "9",
-          "name": "Eurozone GDP (Q-o-Q) (Q4)",
-          "description": "Early estimate of Eurozone growth, guiding expectations for ECB policy and regional demand.",
-          "actual": "",
-          "consensus": "0.2%",
-          "previous": "0.3%"
-        },
-        {
-          "id": "10",
-          "name": "US PPI (MoM) (Dec)",
-          "description": "Measures producer-level inflation pressures, which can feed into consumer prices over time.",
-          "actual": "",
-          "consensus": "0.2%",
-          "previous": "0.2%"
-        }
-      ]
-    }
-  ]
-}
+  {
+    "week": 4,
+    "weekTitle": "Week of February 2-6, 2026",
+    "days": [
+      {
+        "date": "Monday, 2 February 2026",
+        "events": [
+          {
+            "id": "1",
+            "name": "China Caixin Manufacturing PMI (Jan)",
+            "description": "Measures activity in the manufacturing sector through surveys of purchasing managers at private and state-owned firms.",
+            "actual": "",
+            "consensus": "50.3",
+            "previous": "50.1"
+          },
+          {
+            "id": "2",
+            "name": "US ISM Manufacturing PMI (Jan)",
+            "description": "Provides a survey-based snapshot of the US manufacturing sector's health, focusing on orders, production, and employment.",
+            "actual": "",
+            "consensus": "48.2",
+            "previous": "47.9"
+          }
+        ]
+      },
+      {
+        "date": "Tuesday, 3 February 2026",
+        "events": [
+          {
+            "id": "3",
+            "name": "Australia RBA Interest Rate Decision",
+            "description": "The central bank sets the official cash rate, a key tool for managing inflation and economic stability.",
+            "actual": "",
+            "consensus": "3.85%",
+            "previous": "3.60%"
+          },
+          {
+            "id": "4",
+            "name": "US JOLTs Job Openings (Dec)",
+            "description": "Measures the number of unfilled jobs, offering insights into labor market conditions and employer demand in the US.",
+            "actual": "",
+            "consensus": "7.0M",
+            "previous": "7.1M"
+          }
+        ]
+      },
+      {
+        "date": "Wednesday, 4 February 2026",
+        "events": [
+          {
+            "id": "5",
+            "name": "Eurozone CPI (Y-o-Y) (Jan)",
+            "description": "Tracks the annual change in the price of consumer goods and services, the primary inflation gauge for the Eurozone.",
+            "actual": "",
+            "consensus": "2.0%",
+            "previous": "1.9%"
+          },
+          {
+            "id": "6",
+            "name": "US ISM Services PMI (Jan)",
+            "description": "Evaluates the strength of the US services sector, covering business activity, new orders, and employment levels.",
+            "actual": "",
+            "consensus": "53.5",
+            "previous": "54.4"
+          }
+        ]
+      },
+      {
+        "date": "Thursday, 5 February 2026",
+        "events": [
+          {
+            "id": "7",
+            "name": "UK BoE Interest Rate Decision",
+            "description": "The Bank of England sets the bank rate to maintain price stability and support the government’s economic objectives.",
+            "actual": "",
+            "consensus": "3.75%",
+            "previous": "3.75%"
+          },
+          {
+            "id": "8",
+            "name": "Eurozone ECB Interest Rate Decision",
+            "description": "The European Central Bank determines interest rates to manage inflation and maintain the purchasing power of the Euro.",
+            "actual": "",
+            "consensus": "2.00%",
+            "previous": "2.00%"
+          }
+        ]
+      },
+      {
+        "date": "Friday, 6 February 2026",
+        "events": [
+          {
+            "id": "9",
+            "name": "US Non-Farm Payrolls (Jan)",
+            "description": "Measures the number of workers added in the previous month, excluding the farming industry, reflecting labor market strength.",
+            "actual": "",
+            "consensus": "70K",
+            "previous": "50K"
+          },
+          {
+            "id": "10",
+            "name": "US Unemployment Rate (Jan)",
+            "description": "The percentage of the labor force that is unemployed, serving as a critical indicator of economic performance.",
+            "actual": "",
+            "consensus": "4.4%",
+            "previous": "4.4%"
+          }
+        ]
+      }
+    ]
+  }
 ]
