@@ -61,8 +61,8 @@
             "name": "US ISM Services PMI (Jan)",
             "description": "Evaluates the strength of the US services sector, covering business activity, new orders, and employment levels.",
             "actual": "",
-            "consensus": "53.5",
-            "previous": "54.4"
+            "consensus": "52.5",
+            "previous": "52.5"
           }
         ]
       },
@@ -82,8 +82,8 @@
             "name": "Eurozone ECB Interest Rate Decision",
             "description": "The European Central Bank determines interest rates to manage inflation and maintain the purchasing power of the Euro.",
             "actual": "",
-            "consensus": "2.00%",
-            "previous": "2.00%"
+            "consensus": "2.15%",
+            "previous": "2.15%"
           }
         ]
       },
