@@ -1,110 +1,110 @@
 [
   {
-    "week": 4,
-    "weekTitle": "Week of February 2-6, 2026",
+    "week": 6,
+    "weekTitle": "Week of February 16-20, 2026",
     "days": [
       {
-        "date": "Monday, 2 February 2026",
+        "date": "Monday, 16 February 2026",
         "events": [
           {
             "id": "1",
-            "name": "China Caixin Manufacturing PMI (Jan)",
-            "description": "Measures activity in the manufacturing sector through surveys of purchasing managers at private and state-owned firms.",
+            "name": "Japan Industrial Production (M-o-M) (Dec)",
+            "description": "Measures the change in the total value of output produced by manufacturers, mines, and utilities in Japan.",
             "actual": "",
-            "consensus": "50.3",
-            "previous": "50.1"
+            "consensus": "-0.1%",
+            "previous": "-0.1%"
           },
           {
             "id": "2",
-            "name": "US ISM Manufacturing PMI (Jan)",
-            "description": "Provides a survey-based snapshot of the US manufacturing sector's health, focusing on orders, production, and employment.",
+            "name": "Eurozone Industrial Production (M-o-M) (Dec)",
+            "description": "Measures the change in the total inflation-adjusted value of output produced by manufacturers, mines, and utilities.",
             "actual": "",
-            "consensus": "48.2",
-            "previous": "47.9"
+            "consensus": "-1.5%",
+            "previous": "0.7%"
           }
         ]
       },
       {
-        "date": "Tuesday, 3 February 2026",
+        "date": "Tuesday, 17 February 2026",
         "events": [
           {
             "id": "3",
-            "name": "Australia RBA Interest Rate Decision",
-            "description": "The central bank sets the official cash rate, a key tool for managing inflation and economic stability.",
+            "name": "UK Unemployment Rate (Dec)",
+            "description": "The percentage of the total workforce that is unemployed and actively seeking employment during the previous month.",
             "actual": "",
-            "consensus": "3.85%",
-            "previous": "3.60%"
+            "consensus": "5.1%",
+            "previous": "5.1%"
           },
           {
             "id": "4",
-            "name": "US JOLTs Job Openings (Dec)",
-            "description": "Measures the number of unfilled jobs, offering insights into labor market conditions and employer demand in the US.",
+            "name": "Canada CPI (M-o-M) (Jan)",
+            "description": "Measures the change in the price of goods and services from the perspective of the Canadian consumer.",
             "actual": "",
-            "consensus": "7.0M",
-            "previous": "7.1M"
+            "consensus": "0.1%",
+            "previous": "-0.2%"
           }
         ]
       },
       {
-        "date": "Wednesday, 4 February 2026",
+        "date": "Wednesday, 18 February 2026",
         "events": [
           {
             "id": "5",
-            "name": "Eurozone CPI (Y-o-Y) (Jan)",
-            "description": "Tracks the annual change in the price of consumer goods and services, the primary inflation gauge for the Eurozone.",
+            "name": "UK CPI (Y-o-Y) (Jan)",
+            "description": "The primary indicator of inflation in the UK, measuring price changes for a basket of consumer goods.",
             "actual": "",
-            "consensus": "2.0%",
-            "previous": "1.9%"
+            "consensus": "3.0%",
+            "previous": "3.4%"
           },
           {
             "id": "6",
-            "name": "US ISM Services PMI (Jan)",
-            "description": "Evaluates the strength of the US services sector, covering business activity, new orders, and employment levels.",
+            "name": "US FOMC Meeting Minutes",
+            "description": "A detailed record of the Fed's most recent interest rate meeting, providing insights into future monetary policy.",
             "actual": "",
-            "consensus": "52.5",
-            "previous": "52.5"
+            "consensus": "",
+            "previous": ""
           }
         ]
       },
       {
-        "date": "Thursday, 5 February 2026",
+        "date": "Thursday, 19 February 2026",
         "events": [
           {
             "id": "7",
-            "name": "UK BoE Interest Rate Decision",
-            "description": "The Bank of England sets the bank rate to maintain price stability and support the government’s economic objectives.",
+            "name": "Australia Employment Change (Jan)",
+            "description": "Measures the change in the number of employed people, reflecting the health of the Australian labor market.",
             "actual": "",
-            "consensus": "3.75%",
-            "previous": "3.75%"
+            "consensus": "",
+            "previous": "54.8K"
           },
           {
             "id": "8",
-            "name": "Eurozone ECB Interest Rate Decision",
-            "description": "The European Central Bank determines interest rates to manage inflation and maintain the purchasing power of the Euro.",
+            "name": "US Initial Jobless Claims",
+            "description": "Measures the number of individuals who filed for unemployment insurance for the first time during the past week.",
             "actual": "",
-            "consensus": "2.15%",
-            "previous": "2.15%"
+            "consensus": "229K",
+            "previous": "227K"
           }
         ]
       },
       {
-        "date": "Friday, 6 February 2026",
+        "date": "Friday, 20 February 2026",
         "events": [
           {
             "id": "9",
-            "name": "US Non-Farm Payrolls (Jan)",
-            "description": "Measures the number of workers added in the previous month, excluding the farming industry, reflecting labor market strength.",
+            "name": "US GDP (Q-o-Q) (Q4)",
+            "description": "The 'Advance' estimate of the annualized growth rate of the US economy for the final quarter of 2025.",
             "actual": "",
-            "consensus": "70K",
-            "previous": "50K"
+            "consensus": "2.8%",
+            "previous": "4.4%"
           },
           {
             "id": "10",
-            "name": "US Unemployment Rate (Jan)",
-            "description": "The percentage of the labor force that is unemployed, serving as a critical indicator of economic performance.",
+            "name": "US Core PCE Price Index (Y-o-Y) (Dec)",
+            "description": "The Fed's preferred inflation gauge, measuring price changes in personal consumption expenditures excluding food and energy.",
             "actual": "",
-            "consensus": "4.4%",
-            "previous": "4.4%"
+            "consensus": "3.0%",
+            "previous": "2.8%"
           }
         ]
       }
