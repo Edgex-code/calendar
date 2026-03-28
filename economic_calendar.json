@@ -1,110 +1,110 @@
 [
-  {
-    "week": 6,
-    "weekTitle": "Week of February 16-20, 2026",
+ {
+    "week": 12,
+    "weekTitle": "Week of March 30-April 3, 2026",
     "days": [
       {
-        "date": "Monday, 16 February 2026",
+        "date": "Monday, 30 March 2026",
         "events": [
           {
             "id": "1",
-            "name": "Japan Industrial Production (M-o-M) (Dec)",
-            "description": "Measures the change in the total value of output produced by manufacturers, mines, and utilities in Japan.",
+            "name": "Germany CPI (Y-o-Y) (Mar)",
+            "description": "Measures the annual change in prices for goods and services purchased by households in Europe's largest economy.",
             "actual": "",
-            "consensus": "-0.1%",
-            "previous": "-0.1%"
+            "consensus": "2.1%",
+            "previous": "2.2%"
           },
           {
             "id": "2",
-            "name": "Eurozone Industrial Production (M-o-M) (Dec)",
-            "description": "Measures the change in the total inflation-adjusted value of output produced by manufacturers, mines, and utilities.",
+            "name": "US Pending Home Sales (M-o-M) (Feb)",
+            "description": "A leading indicator of housing market health, measuring the number of homes under contract to be sold.",
             "actual": "",
-            "consensus": "-1.5%",
-            "previous": "0.7%"
+            "consensus": "1.5%",
+            "previous": "-1.1%"
           }
         ]
       },
       {
-        "date": "Tuesday, 17 February 2026",
+        "date": "Tuesday, 31 March 2026",
         "events": [
           {
             "id": "3",
-            "name": "UK Unemployment Rate (Dec)",
-            "description": "The percentage of the total workforce that is unemployed and actively seeking employment during the previous month.",
+            "name": "China Manufacturing PMI (Mar)",
+            "description": "A key survey of purchasing managers reflecting the health and expansion or contraction of China's industrial sector.",
             "actual": "",
-            "consensus": "5.1%",
-            "previous": "5.1%"
+            "consensus": "50.4",
+            "previous": "50.1"
           },
           {
             "id": "4",
-            "name": "Canada CPI (M-o-M) (Jan)",
-            "description": "Measures the change in the price of goods and services from the perspective of the Canadian consumer.",
+            "name": "Eurozone CPI (Y-o-Y) (Mar)",
+            "description": "The preliminary estimate of consumer price inflation across the Eurozone, used by the ECB for policy decisions.",
             "actual": "",
-            "consensus": "0.1%",
-            "previous": "-0.2%"
+            "consensus": "1.9%",
+            "previous": "2.0%"
           }
         ]
       },
       {
-        "date": "Wednesday, 18 February 2026",
+        "date": "Wednesday, 1 April 2026",
         "events": [
           {
             "id": "5",
-            "name": "UK CPI (Y-o-Y) (Jan)",
-            "description": "The primary indicator of inflation in the UK, measuring price changes for a basket of consumer goods.",
+            "name": "US ADP Nonfarm Employment Change (Mar)",
+            "description": "An estimate of private-sector payroll growth, often viewed as a precursor to the official government jobs report.",
             "actual": "",
-            "consensus": "3.0%",
-            "previous": "3.4%"
+            "consensus": "145K",
+            "previous": "140K"
           },
           {
             "id": "6",
-            "name": "US FOMC Meeting Minutes",
-            "description": "A detailed record of the Fed's most recent interest rate meeting, providing insights into future monetary policy.",
+            "name": "US ISM Manufacturing PMI (Mar)",
+            "description": "Evaluates the performance of the US manufacturing sector based on production, new orders, and employment data points.",
             "actual": "",
-            "consensus": "",
-            "previous": ""
+            "consensus": "49.1",
+            "previous": "48.6"
           }
         ]
       },
       {
-        "date": "Thursday, 19 February 2026",
+        "date": "Thursday, 2 April 2026",
         "events": [
           {
             "id": "7",
-            "name": "Australia Employment Change (Jan)",
-            "description": "Measures the change in the number of employed people, reflecting the health of the Australian labor market.",
+            "name": "US Initial Jobless Claims",
+            "description": "A weekly measure of new individuals filing for unemployment benefits, providing a real-time view of labor market stress.",
             "actual": "",
-            "consensus": "",
-            "previous": "54.8K"
+            "consensus": "215K",
+            "previous": "212K"
           },
           {
             "id": "8",
-            "name": "US Initial Jobless Claims",
-            "description": "Measures the number of individuals who filed for unemployment insurance for the first time during the past week.",
+            "name": "US Trade Balance (Feb)",
+            "description": "Measures the difference in value between imported and exported goods and services for the United States economy.",
             "actual": "",
-            "consensus": "229K",
-            "previous": "227K"
+            "consensus": "-68.5B",
+            "previous": "-67.4B"
           }
         ]
       },
       {
-        "date": "Friday, 20 February 2026",
+        "date": "Friday, 3 April 2026",
         "events": [
           {
             "id": "9",
-            "name": "US GDP (Q-o-Q) (Q4)",
-            "description": "The 'Advance' estimate of the annualized growth rate of the US economy for the final quarter of 2025.",
+            "name": "US Non-Farm Payrolls (Mar)",
+            "description": "The most influential economic report, measuring total job creation in the US economy excluding the agricultural sector.",
             "actual": "",
-            "consensus": "2.8%",
-            "previous": "4.4%"
+            "consensus": "160K",
+            "previous": "155K"
           },
           {
             "id": "10",
-            "name": "US Core PCE Price Index (Y-o-Y) (Dec)",
-            "description": "The Fed's preferred inflation gauge, measuring price changes in personal consumption expenditures excluding food and energy.",
+            "name": "US Unemployment Rate (Mar)",
+            "description": "The percentage of the total American workforce that was unemployed and actively seeking work during the month.",
             "actual": "",
-            "consensus": "3.0%",
-            "previous": "2.8%"
+            "consensus": "4.1%",
+            "previous": "4.1%"
           }
         ]
       }
