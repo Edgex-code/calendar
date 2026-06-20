@@ -9,7 +9,7 @@
           {
             "id": "1",
             "name": "China PBoC Loan Prime Rate (1-Year)",
-            "description": "The PBoC's benchmark lending rate, setting borrowing costs across China's corporate and household credit markets.",
+            "description": "The PBoC's benchmark lending rate setting borrowing costs across China's corporate and household credit markets.",
             "actual": "",
             "consensus": "3.0%",
             "previous": "3.0%"
@@ -29,11 +29,11 @@
         "events": [
           {
             "id": "3",
-            "name": "Eurozone Services PMI Flash (Jun)",
-            "description": "Flash estimate of services sector business conditions across the Eurozone, a key input for ECB rate decisions.",
+            "name": "US Manufacturing PMI Flash (Jun)",
+            "description": "Preliminary S&P Global survey of US factory activity, providing an early read on industrial output and order trends.",
             "actual": "",
-            "consensus": "",
-            "previous": "47.7"
+            "consensus": "54.8",
+            "previous": "55.3"
           },
           {
             "id": "4",
@@ -41,7 +41,7 @@
             "description": "Preliminary reading of UK services sector activity, reflecting conditions in the dominant part of the British economy.",
             "actual": "",
             "consensus": "",
-            "previous": ""
+            "previous": "49.3"
           }
         ]
       },
@@ -51,7 +51,7 @@
           {
             "id": "5",
             "name": "Germany IFO Business Climate (Jun)",
-            "description": "Monthly survey of German firms measuring current business conditions and six-month expectations for Europe's largest economy.",
+            "description": "Monthly survey of German firms measuring current conditions and six-month expectations for Europe's largest economy.",
             "actual": "",
             "consensus": "",
             "previous": "84.9"
@@ -72,7 +72,7 @@
           {
             "id": "7",
             "name": "US GDP (Q1 2026, Third Estimate)",
-            "description": "The BEA's final estimate of annualised US output growth in Q1 2026, informing the economic expansion outlook.",
+            "description": "The BEA's final estimate of annualised US output growth in Q1 2026, informing the broader economic expansion outlook.",
             "actual": "",
             "consensus": "1.6%",
             "previous": "1.6%"
@@ -93,9 +93,9 @@
           {
             "id": "9",
             "name": "US Core PCE Price Index (Y-o-Y) (May)",
-            "description": "The Federal Reserve's preferred inflation measure, tracking price changes for consumer spending excluding food and energy.",
+            "description": "The Federal Reserve's preferred inflation measure, tracking consumer spending price changes excluding food and energy.",
             "actual": "",
-            "consensus": "",
+            "consensus": "3.4%",
             "previous": "3.3%"
           },
           {
