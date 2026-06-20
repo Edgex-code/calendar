@@ -1,110 +1,110 @@
 [
- {
-    "week": 12,
-    "weekTitle": "Week of March 30-April 3, 2026",
+  {
+    "week": 24,
+    "weekTitle": "Week of June 22-26, 2026",
     "days": [
       {
-        "date": "Monday, 30 March 2026",
+        "date": "2026-06-22",
         "events": [
           {
             "id": "1",
-            "name": "Germany CPI (Y-o-Y) (Mar)",
-            "description": "Measures the annual change in prices for goods and services purchased by households in Europe's largest economy.",
+            "name": "China PBoC Loan Prime Rate (1-Year)",
+            "description": "The PBoC's benchmark lending rate, setting borrowing costs across China's corporate and household credit markets.",
             "actual": "",
-            "consensus": "2.1%",
-            "previous": "2.2%"
+            "consensus": "3.0%",
+            "previous": "3.0%"
           },
           {
             "id": "2",
-            "name": "US Pending Home Sales (M-o-M) (Feb)",
-            "description": "A leading indicator of housing market health, measuring the number of homes under contract to be sold.",
+            "name": "Canada CPI (Y-o-Y) (May)",
+            "description": "Measures the annual rate of consumer price change in Canada, guiding Bank of Canada monetary policy decisions.",
             "actual": "",
-            "consensus": "1.5%",
-            "previous": "-1.1%"
+            "consensus": "",
+            "previous": "2.8%"
           }
         ]
       },
       {
-        "date": "Tuesday, 31 March 2026",
+        "date": "2026-06-23",
         "events": [
           {
             "id": "3",
-            "name": "China Manufacturing PMI (Mar)",
-            "description": "A key survey of purchasing managers reflecting the health and expansion or contraction of China's industrial sector.",
+            "name": "Eurozone Services PMI Flash (Jun)",
+            "description": "Flash estimate of services sector business conditions across the Eurozone, a key input for ECB rate decisions.",
             "actual": "",
-            "consensus": "50.4",
-            "previous": "50.1"
+            "consensus": "",
+            "previous": "47.7"
           },
           {
             "id": "4",
-            "name": "Eurozone CPI (Y-o-Y) (Mar)",
-            "description": "The preliminary estimate of consumer price inflation across the Eurozone, used by the ECB for policy decisions.",
+            "name": "UK Services PMI Flash (Jun)",
+            "description": "Preliminary reading of UK services sector activity, reflecting conditions in the dominant part of the British economy.",
             "actual": "",
-            "consensus": "1.9%",
-            "previous": "2.0%"
+            "consensus": "",
+            "previous": ""
           }
         ]
       },
       {
-        "date": "Wednesday, 1 April 2026",
+        "date": "2026-06-24",
         "events": [
           {
             "id": "5",
-            "name": "US ADP Nonfarm Employment Change (Mar)",
-            "description": "An estimate of private-sector payroll growth, often viewed as a precursor to the official government jobs report.",
+            "name": "Germany IFO Business Climate (Jun)",
+            "description": "Monthly survey of German firms measuring current business conditions and six-month expectations for Europe's largest economy.",
             "actual": "",
-            "consensus": "145K",
-            "previous": "140K"
+            "consensus": "",
+            "previous": "84.9"
           },
           {
             "id": "6",
-            "name": "US ISM Manufacturing PMI (Mar)",
-            "description": "Evaluates the performance of the US manufacturing sector based on production, new orders, and employment data points.",
+            "name": "Australia Monthly CPI (May)",
+            "description": "Monthly consumer price inflation gauge covering Australia's capital cities, directly shaping RBA interest rate deliberations.",
             "actual": "",
-            "consensus": "49.1",
-            "previous": "48.6"
+            "consensus": "",
+            "previous": "4.2%"
           }
         ]
       },
       {
-        "date": "Thursday, 2 April 2026",
+        "date": "2026-06-25",
         "events": [
           {
             "id": "7",
-            "name": "US Initial Jobless Claims",
-            "description": "A weekly measure of new individuals filing for unemployment benefits, providing a real-time view of labor market stress.",
+            "name": "US GDP (Q1 2026, Third Estimate)",
+            "description": "The BEA's final estimate of annualised US output growth in Q1 2026, informing the economic expansion outlook.",
             "actual": "",
-            "consensus": "215K",
-            "previous": "212K"
+            "consensus": "1.6%",
+            "previous": "1.6%"
           },
           {
             "id": "8",
-            "name": "US Trade Balance (Feb)",
-            "description": "Measures the difference in value between imported and exported goods and services for the United States economy.",
+            "name": "US Initial Jobless Claims",
+            "description": "Weekly count of new unemployment benefit applications, providing a real-time gauge of US labour market conditions.",
             "actual": "",
-            "consensus": "-68.5B",
-            "previous": "-67.4B"
+            "consensus": "225K",
+            "previous": "226K"
           }
         ]
       },
       {
-        "date": "Friday, 3 April 2026",
+        "date": "2026-06-26",
         "events": [
           {
             "id": "9",
-            "name": "US Non-Farm Payrolls (Mar)",
-            "description": "The most influential economic report, measuring total job creation in the US economy excluding the agricultural sector.",
+            "name": "US Core PCE Price Index (Y-o-Y) (May)",
+            "description": "The Federal Reserve's preferred inflation measure, tracking price changes for consumer spending excluding food and energy.",
             "actual": "",
-            "consensus": "160K",
-            "previous": "155K"
+            "consensus": "",
+            "previous": "3.3%"
           },
           {
             "id": "10",
-            "name": "US Unemployment Rate (Mar)",
-            "description": "The percentage of the total American workforce that was unemployed and actively seeking work during the month.",
+            "name": "Japan Tokyo CPI (Y-o-Y) (Jun)",
+            "description": "Tokyo's advance June inflation reading, a leading indicator of national CPI trends closely tracked by the BoJ.",
             "actual": "",
-            "consensus": "4.1%",
-            "previous": "4.1%"
+            "consensus": "",
+            "previous": "1.4%"
           }
         ]
       }
