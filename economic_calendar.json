@@ -1,110 +1,110 @@
 [
   {
-    "week": 24,
-    "weekTitle": "Week of June 22-26, 2026",
+    "week": 25,
+    "weekTitle": "Week of June 29 - July 3, 2026",
     "days": [
       {
-        "date": "2026-06-22",
+        "date": "2026-06-29",
         "events": [
           {
             "id": "1",
-            "name": "China PBoC Loan Prime Rate (1-Year)",
-            "description": "The PBoC's benchmark lending rate setting borrowing costs across China's corporate and household credit markets.",
+            "name": "Japan Retail Sales (M-o-M)",
+            "description": "Measures the monthly change in Japanese consumer spending, a key indicator of domestic demand and economic health.",
             "actual": "",
-            "consensus": "3.0%",
-            "previous": "3.0%"
+            "consensus": "",
+            "previous": ""
           },
           {
             "id": "2",
-            "name": "Canada CPI (Y-o-Y) (May)",
-            "description": "Measures the annual rate of consumer price change in Canada, guiding Bank of Canada monetary policy decisions.",
+            "name": "US Dallas Fed Manufacturing Activity (Jun)",
+            "description": "Monthly survey of Texas factory managers tracking business conditions and output, an early gauge of US industrial health.",
             "actual": "",
             "consensus": "",
-            "previous": "2.8%"
+            "previous": "0.4"
           }
         ]
       },
       {
-        "date": "2026-06-23",
+        "date": "2026-06-30",
         "events": [
           {
             "id": "3",
-            "name": "US Manufacturing PMI Flash (Jun)",
-            "description": "Preliminary S&P Global survey of US factory activity, providing an early read on industrial output and order trends.",
+            "name": "UK GDP (Q-o-Q)",
+            "description": "Final quarterly estimate of UK economic output in Q1 2026, confirming whether the economy sustained its expansion.",
             "actual": "",
-            "consensus": "54.8",
-            "previous": "55.3"
+            "consensus": "0.6%",
+            "previous": "0.2%"
           },
           {
             "id": "4",
-            "name": "UK Services PMI Flash (Jun)",
-            "description": "Preliminary reading of UK services sector activity, reflecting conditions in the dominant part of the British economy.",
+            "name": "China NBS Manufacturing PMI (Jun)",
+            "description": "Official survey of Chinese factory managers; readings above 50 signal expansion in the world's largest manufacturing hub.",
             "actual": "",
             "consensus": "",
-            "previous": "49.3"
+            "previous": "50.0"
           }
         ]
       },
       {
-        "date": "2026-06-24",
+        "date": "2026-07-01",
         "events": [
           {
             "id": "5",
-            "name": "Germany IFO Business Climate (Jun)",
-            "description": "Monthly survey of German firms measuring current conditions and six-month expectations for Europe's largest economy.",
+            "name": "Eurozone CPI Flash (Y-o-Y)",
+            "description": "Eurostat's preliminary estimate of annual eurozone consumer price inflation, directly guiding ECB monetary policy decisions.",
             "actual": "",
             "consensus": "",
-            "previous": "84.9"
+            "previous": "3.2%"
           },
           {
             "id": "6",
-            "name": "Australia Monthly CPI (May)",
-            "description": "Monthly consumer price inflation gauge covering Australia's capital cities, directly shaping RBA interest rate deliberations.",
+            "name": "US ADP Employment Change (Jun)",
+            "description": "ADP's private-sector payroll count for June, a widely tracked precursor to the official NFP labour market report.",
             "actual": "",
-            "consensus": "",
-            "previous": "4.2%"
+            "consensus": "125K",
+            "previous": "122K"
           }
         ]
       },
       {
-        "date": "2026-06-25",
+        "date": "2026-07-02",
         "events": [
           {
             "id": "7",
-            "name": "US GDP (Q1 2026, Third Estimate)",
-            "description": "The BEA's final estimate of annualised US output growth in Q1 2026, informing the broader economic expansion outlook.",
+            "name": "US Nonfarm Payrolls (Jun)",
+            "description": "BLS monthly count of US jobs added outside agriculture, released a day early due to the Independence Day holiday.",
             "actual": "",
-            "consensus": "1.6%",
-            "previous": "1.6%"
+            "consensus": "130K",
+            "previous": "172K"
           },
           {
             "id": "8",
             "name": "US Initial Jobless Claims",
-            "description": "Weekly count of new unemployment benefit applications, providing a real-time gauge of US labour market conditions.",
+            "description": "Weekly tally of new unemployment insurance applications, providing a real-time gauge of US labour market conditions.",
             "actual": "",
-            "consensus": "225K",
-            "previous": "226K"
+            "consensus": "",
+            "previous": "215K"
           }
         ]
       },
       {
-        "date": "2026-06-26",
+        "date": "2026-07-03",
         "events": [
           {
             "id": "9",
-            "name": "US Core PCE Price Index (Y-o-Y) (May)",
-            "description": "The Federal Reserve's preferred inflation measure, tracking consumer spending price changes excluding food and energy.",
+            "name": "UK Services PMI Final (Jun)",
+            "description": "Final S&P Global reading of UK services sector activity; the dominant sector for the British economy and sterling outlook.",
             "actual": "",
-            "consensus": "3.4%",
-            "previous": "3.3%"
+            "consensus": "48.7",
+            "previous": "49.3"
           },
           {
             "id": "10",
-            "name": "Japan Tokyo CPI (Y-o-Y) (Jun)",
-            "description": "Tokyo's advance June inflation reading, a leading indicator of national CPI trends closely tracked by the BoJ.",
+            "name": "Eurozone Services PMI Final (Jun)",
+            "description": "Final S&P Global estimate of eurozone services business conditions in June, key for ECB policy and growth trajectory.",
             "actual": "",
-            "consensus": "",
-            "previous": "1.4%"
+            "consensus": "47.7",
+            "previous": "48.9"
           }
         ]
       }
