@@ -1,86 +1,86 @@
 [
   {
-    "week": 25,
-    "weekTitle": "Week of June 29 - July 3, 2026",
+    "week": 26,
+    "weekTitle": "Week of July 6-10, 2026",
     "days": [
       {
-        "date": "2026-06-29",
+        "date": "2026-07-06",
         "events": [
           {
             "id": "1",
-            "name": "Japan Retail Sales (M-o-M)",
-            "description": "Measures the monthly change in Japanese consumer spending, a key indicator of domestic demand and economic health.",
+            "name": "US ISM Services PMI (Jun)",
+            "description": "Gauges US non-manufacturing sector activity via a survey of purchasing managers, signaling growth or contraction in services.",
+            "actual": "",
+            "consensus": "",
+            "previous": "54.5"
+          },
+          {
+            "id": "2",
+            "name": "Eurozone Retail Sales (M-o-M)",
+            "description": "Tracks the monthly change in retail trade volumes across the euro area, a key gauge of consumer spending.",
+            "actual": "",
+            "consensus": "",
+            "previous": "-0.4%"
+          }
+        ]
+      },
+      {
+        "date": "2026-07-07",
+        "events": [
+          {
+            "id": "3",
+            "name": "China Trade Balance (Jun)",
+            "description": "Measures the gap between China's exports and imports, reflecting global demand and the health of its trade sector.",
+            "actual": "",
+            "consensus": "",
+            "previous": "$105.43B"
+          },
+          {
+            "id": "4",
+            "name": "Germany Industrial Production (M-o-M)",
+            "description": "Measures the monthly change in output from Germany's factories, mines and utilities, a bellwether for Eurozone growth.",
+            "actual": "",
+            "consensus": "",
+            "previous": "-1.6%"
+          }
+        ]
+      },
+      {
+        "date": "2026-07-08",
+        "events": [
+          {
+            "id": "5",
+            "name": "US FOMC Meeting Minutes",
+            "description": "Detailed record of the Fed's June policy meeting, offering clues on officials' views on rates and the outlook.",
             "actual": "",
             "consensus": "",
             "previous": ""
           },
           {
-            "id": "2",
-            "name": "US Dallas Fed Manufacturing Activity (Jun)",
-            "description": "Monthly survey of Texas factory managers tracking business conditions and output, an early gauge of US industrial health.",
-            "actual": "",
-            "consensus": "",
-            "previous": "0.4"
-          }
-        ]
-      },
-      {
-        "date": "2026-06-30",
-        "events": [
-          {
-            "id": "3",
-            "name": "UK GDP (Q-o-Q)",
-            "description": "Final quarterly estimate of UK economic output in Q1 2026, confirming whether the economy sustained its expansion.",
-            "actual": "",
-            "consensus": "0.6%",
-            "previous": "0.2%"
-          },
-          {
-            "id": "4",
-            "name": "China NBS Manufacturing PMI (Jun)",
-            "description": "Official survey of Chinese factory managers; readings above 50 signal expansion in the world's largest manufacturing hub.",
-            "actual": "",
-            "consensus": "",
-            "previous": "50.0"
-          }
-        ]
-      },
-      {
-        "date": "2026-07-01",
-        "events": [
-          {
-            "id": "5",
-            "name": "Eurozone CPI Flash (Y-o-Y)",
-            "description": "Eurostat's preliminary estimate of annual eurozone consumer price inflation, directly guiding ECB monetary policy decisions.",
-            "actual": "",
-            "consensus": "",
-            "previous": "3.2%"
-          },
-          {
             "id": "6",
-            "name": "US ADP Employment Change (Jun)",
-            "description": "ADP's private-sector payroll count for June, a widely tracked precursor to the official NFP labour market report.",
+            "name": "New Zealand RBNZ Interest Rate Decision",
+            "description": "The Reserve Bank of New Zealand's Official Cash Rate announcement, closely watched for signals on future monetary policy.",
             "actual": "",
-            "consensus": "125K",
-            "previous": "122K"
+            "consensus": "2.25%",
+            "previous": "2.25%"
           }
         ]
       },
       {
-        "date": "2026-07-02",
+        "date": "2026-07-09",
         "events": [
           {
             "id": "7",
-            "name": "US Nonfarm Payrolls (Jun)",
-            "description": "BLS monthly count of US jobs added outside agriculture, released a day early due to the Independence Day holiday.",
+            "name": "China CPI (Y-o-Y)",
+            "description": "Measures the annual change in consumer prices across China, a key indicator of inflation and domestic demand strength.",
             "actual": "",
-            "consensus": "130K",
-            "previous": "172K"
+            "consensus": "",
+            "previous": "1.2%"
           },
           {
             "id": "8",
             "name": "US Initial Jobless Claims",
-            "description": "Weekly tally of new unemployment insurance applications, providing a real-time gauge of US labour market conditions.",
+            "description": "Weekly count of new applications for unemployment benefits, an early signal of US labour market conditions.",
             "actual": "",
             "consensus": "",
             "previous": "215K"
@@ -88,23 +88,23 @@
         ]
       },
       {
-        "date": "2026-07-03",
+        "date": "2026-07-10",
         "events": [
           {
             "id": "9",
-            "name": "UK Services PMI Final (Jun)",
-            "description": "Final S&P Global reading of UK services sector activity; the dominant sector for the British economy and sterling outlook.",
+            "name": "Germany CPI Final (Y-o-Y)",
+            "description": "Final confirmation of Germany's annual inflation rate, reflecting price pressures in the Eurozone's largest economy.",
             "actual": "",
-            "consensus": "48.7",
-            "previous": "49.3"
+            "consensus": "2.3%",
+            "previous": "2.6%"
           },
           {
             "id": "10",
-            "name": "Eurozone Services PMI Final (Jun)",
-            "description": "Final S&P Global estimate of eurozone services business conditions in June, key for ECB policy and growth trajectory.",
+            "name": "Canada Employment Change (Jun)",
+            "description": "Measures the net monthly change in employed persons in Canada, a key gauge of North American labour market strength.",
             "actual": "",
-            "consensus": "47.7",
-            "previous": "48.9"
+            "consensus": "",
+            "previous": "87.8K"
           }
         ]
       }
