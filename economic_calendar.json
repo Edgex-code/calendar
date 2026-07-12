@@ -1,65 +1,65 @@
 [
   {
-    "week": 26,
-    "weekTitle": "Week of July 6-10, 2026",
+    "week": 27,
+    "weekTitle": "Week of July 13-17, 2026",
     "days": [
       {
-        "date": "2026-07-06",
+        "date": "2026-07-13",
         "events": [
           {
             "id": "1",
-            "name": "US ISM Services PMI (Jun)",
-            "description": "Gauges US non-manufacturing sector activity via a survey of purchasing managers, signaling growth or contraction in services.",
+            "name": "Eurozone Industrial Production (M-o-M)",
+            "description": "Measures the monthly change in output from factories, mines and utilities across the euro area, a gauge of manufacturing health.",
             "actual": "",
             "consensus": "",
-            "previous": "54.5"
+            "previous": "0.1%"
           },
           {
             "id": "2",
-            "name": "Eurozone Retail Sales (M-o-M)",
-            "description": "Tracks the monthly change in retail trade volumes across the euro area, a key gauge of consumer spending.",
+            "name": "US Monthly Budget Statement (Jun)",
+            "description": "Reports the US federal government's monthly budget surplus or deficit, reflecting spending and revenue trends.",
             "actual": "",
             "consensus": "",
-            "previous": "-0.4%"
+            "previous": "-$293B"
           }
         ]
       },
       {
-        "date": "2026-07-07",
+        "date": "2026-07-14",
         "events": [
           {
             "id": "3",
-            "name": "China Trade Balance (Jun)",
-            "description": "Measures the gap between China's exports and imports, reflecting global demand and the health of its trade sector.",
+            "name": "US CPI (Y-o-Y)",
+            "description": "Tracks the annual change in prices paid by US consumers, a primary gauge for Federal Reserve interest rate policy.",
             "actual": "",
-            "consensus": "",
-            "previous": "$105.43B"
+            "consensus": "3.8%",
+            "previous": "4.2%"
           },
           {
             "id": "4",
-            "name": "Germany Industrial Production (M-o-M)",
-            "description": "Measures the monthly change in output from Germany's factories, mines and utilities, a bellwether for Eurozone growth.",
+            "name": "China M2 Money Supply (Y-o-Y)",
+            "description": "Measures the annual growth rate of China's money supply, an indicator of monetary conditions and credit expansion.",
             "actual": "",
             "consensus": "",
-            "previous": "-1.6%"
+            "previous": "8.6%"
           }
         ]
       },
       {
-        "date": "2026-07-08",
+        "date": "2026-07-15",
         "events": [
           {
             "id": "5",
-            "name": "US FOMC Meeting Minutes",
-            "description": "Detailed record of the Fed's June policy meeting, offering clues on officials' views on rates and the outlook.",
+            "name": "China GDP (Q2, Y-o-Y)",
+            "description": "Measures the annual pace of economic growth in China's second quarter, a key barometer of global demand.",
             "actual": "",
             "consensus": "",
-            "previous": ""
+            "previous": "5.0%"
           },
           {
             "id": "6",
-            "name": "New Zealand RBNZ Interest Rate Decision",
-            "description": "The Reserve Bank of New Zealand's Official Cash Rate announcement, closely watched for signals on future monetary policy.",
+            "name": "Canada BoC Interest Rate Decision",
+            "description": "The Bank of Canada's benchmark rate announcement, signaling its outlook on inflation, growth and borrowing costs.",
             "actual": "",
             "consensus": "2.25%",
             "previous": "2.25%"
@@ -67,20 +67,20 @@
         ]
       },
       {
-        "date": "2026-07-09",
+        "date": "2026-07-16",
         "events": [
           {
             "id": "7",
-            "name": "China CPI (Y-o-Y)",
-            "description": "Measures the annual change in consumer prices across China, a key indicator of inflation and domestic demand strength.",
+            "name": "UK GDP (M-o-M)",
+            "description": "Tracks the monthly change in UK economic output, providing an early read on growth momentum.",
             "actual": "",
             "consensus": "",
-            "previous": "1.2%"
+            "previous": "-0.1%"
           },
           {
             "id": "8",
             "name": "US Initial Jobless Claims",
-            "description": "Weekly count of new applications for unemployment benefits, an early signal of US labour market conditions.",
+            "description": "Weekly count of new US unemployment benefit applications, an early signal of labour market conditions.",
             "actual": "",
             "consensus": "",
             "previous": "215K"
@@ -88,23 +88,23 @@
         ]
       },
       {
-        "date": "2026-07-10",
+        "date": "2026-07-17",
         "events": [
           {
             "id": "9",
-            "name": "Germany CPI Final (Y-o-Y)",
-            "description": "Final confirmation of Germany's annual inflation rate, reflecting price pressures in the Eurozone's largest economy.",
+            "name": "Eurozone HICP Final (Y-o-Y)",
+            "description": "The confirmed final reading of euro area consumer price inflation, guiding the European Central Bank's policy outlook.",
             "actual": "",
-            "consensus": "2.3%",
-            "previous": "2.6%"
+            "consensus": "2.8%",
+            "previous": "3.2%"
           },
           {
             "id": "10",
-            "name": "Canada Employment Change (Jun)",
-            "description": "Measures the net monthly change in employed persons in Canada, a key gauge of North American labour market strength.",
+            "name": "US Michigan Consumer Sentiment (Preliminary)",
+            "description": "Gauges US consumer confidence and inflation expectations, a leading indicator of future household spending.",
             "actual": "",
             "consensus": "",
-            "previous": "87.8K"
+            "previous": "49.5"
           }
         ]
       }
