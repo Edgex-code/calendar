@@ -1,110 +1,110 @@
 [
   {
-    "week": 27,
-    "weekTitle": "Week of July 13-17, 2026",
+    "week": 28,
+    "weekTitle": "Week of July 20-24, 2026",
     "days": [
       {
-        "date": "2026-07-13",
+        "date": "2026-07-20",
         "events": [
           {
             "id": "1",
-            "name": "Eurozone Industrial Production (M-o-M)",
-            "description": "Measures the monthly change in output from factories, mines and utilities across the euro area, a gauge of manufacturing health.",
+            "name": "China PBOC Loan Prime Rate Decision",
+            "description": "Sets China's benchmark 1-year and 5-year lending rates, guiding borrowing costs and signalling the PBOC's policy stance.",
             "actual": "",
-            "consensus": "",
-            "previous": "0.1%"
+            "consensus": "3.00%",
+            "previous": "3.00%"
           },
           {
             "id": "2",
-            "name": "US Monthly Budget Statement (Jun)",
-            "description": "Reports the US federal government's monthly budget surplus or deficit, reflecting spending and revenue trends.",
+            "name": "New Zealand CPI (Y-o-Y)",
+            "description": "Measures the annual change in New Zealand consumer prices for Q2, a key input to Reserve Bank of New Zealand policy.",
             "actual": "",
             "consensus": "",
-            "previous": "-$293B"
+            "previous": "3.1%"
           }
         ]
       },
       {
-        "date": "2026-07-14",
+        "date": "2026-07-21",
         "events": [
           {
             "id": "3",
-            "name": "US CPI (Y-o-Y)",
-            "description": "Tracks the annual change in prices paid by US consumers, a primary gauge for Federal Reserve interest rate policy.",
+            "name": "UK Unemployment Rate",
+            "description": "Tracks the share of the UK workforce without a job, a key gauge of labour market slack watched by the BoE.",
             "actual": "",
-            "consensus": "3.8%",
-            "previous": "4.2%"
+            "consensus": "4.9%",
+            "previous": "4.9%"
           },
           {
             "id": "4",
-            "name": "China M2 Money Supply (Y-o-Y)",
-            "description": "Measures the annual growth rate of China's money supply, an indicator of monetary conditions and credit expansion.",
+            "name": "Canada CPI (Y-o-Y)",
+            "description": "Measures the annual change in Canadian consumer prices, a primary input to the Bank of Canada's rate decisions.",
             "actual": "",
-            "consensus": "",
-            "previous": "8.6%"
+            "consensus": "2.9%",
+            "previous": "3.2%"
           }
         ]
       },
       {
-        "date": "2026-07-15",
+        "date": "2026-07-22",
         "events": [
           {
             "id": "5",
-            "name": "China GDP (Q2, Y-o-Y)",
-            "description": "Measures the annual pace of economic growth in China's second quarter, a key barometer of global demand.",
+            "name": "UK CPI (Y-o-Y)",
+            "description": "Tracks the annual change in prices paid by UK consumers, the Bank of England's primary gauge for policy decisions.",
             "actual": "",
             "consensus": "",
-            "previous": "5.0%"
+            "previous": "2.8%"
           },
           {
             "id": "6",
-            "name": "Canada BoC Interest Rate Decision",
-            "description": "The Bank of Canada's benchmark rate announcement, signaling its outlook on inflation, growth and borrowing costs.",
+            "name": "Germany Ifo Business Climate Index",
+            "description": "Surveys German firms on current conditions and expectations, a leading indicator for the Eurozone's largest economy.",
             "actual": "",
-            "consensus": "2.25%",
-            "previous": "2.25%"
+            "consensus": "",
+            "previous": "85.6"
           }
         ]
       },
       {
-        "date": "2026-07-16",
+        "date": "2026-07-23",
         "events": [
           {
             "id": "7",
-            "name": "UK GDP (M-o-M)",
-            "description": "Tracks the monthly change in UK economic output, providing an early read on growth momentum.",
+            "name": "Eurozone ECB Interest Rate Decision",
+            "description": "The ECB Governing Council sets the deposit facility rate, driving borrowing costs and the euro across the currency bloc.",
             "actual": "",
-            "consensus": "",
-            "previous": "-0.1%"
+            "consensus": "2.25%",
+            "previous": "2.25%"
           },
           {
             "id": "8",
             "name": "US Initial Jobless Claims",
-            "description": "Weekly count of new US unemployment benefit applications, an early signal of labour market conditions.",
+            "description": "Counts new US unemployment benefit claims filed weekly, a timely, high-frequency signal of labour market health.",
             "actual": "",
             "consensus": "",
-            "previous": "215K"
+            "previous": "208K"
           }
         ]
       },
       {
-        "date": "2026-07-17",
+        "date": "2026-07-24",
         "events": [
           {
             "id": "9",
-            "name": "Eurozone HICP Final (Y-o-Y)",
-            "description": "The confirmed final reading of euro area consumer price inflation, guiding the European Central Bank's policy outlook.",
+            "name": "US Manufacturing PMI (Flash)",
+            "description": "S&P Global's preliminary gauge of US factory activity, an early read on manufacturing sector momentum.",
             "actual": "",
-            "consensus": "2.8%",
-            "previous": "3.2%"
+            "consensus": "",
+            "previous": "55.7"
           },
           {
             "id": "10",
-            "name": "US Michigan Consumer Sentiment (Preliminary)",
-            "description": "Gauges US consumer confidence and inflation expectations, a leading indicator of future household spending.",
+            "name": "Eurozone Services PMI (Flash)",
+            "description": "S&P Global/HCOB's preliminary gauge of Eurozone service-sector activity, a timely signal of bloc-wide growth momentum.",
             "actual": "",
             "consensus": "",
-            "previous": "49.5"
+            "previous": "48.9"
           }
         ]
       }
