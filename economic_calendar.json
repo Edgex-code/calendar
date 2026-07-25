@@ -1,110 +1,110 @@
 [
   {
-    "week": 28,
-    "weekTitle": "Week of July 20-24, 2026",
+    "week": 29,
+    "weekTitle": "Week of July 27-31, 2026",
     "days": [
       {
-        "date": "2026-07-20",
+        "date": "2026-07-27",
         "events": [
           {
             "id": "1",
-            "name": "China PBOC Loan Prime Rate Decision",
-            "description": "Sets China's benchmark 1-year and 5-year lending rates, guiding borrowing costs and signalling the PBOC's policy stance.",
+            "name": "China Industrial Profits (Jan-Jun Y-o-Y)",
+            "description": "Measures cumulative profit growth at large industrial firms, signalling corporate health and manufacturing demand in China.",
             "actual": "",
-            "consensus": "3.00%",
-            "previous": "3.00%"
+            "consensus": "",
+            "previous": "+18.8% (Jan-May)"
           },
           {
             "id": "2",
-            "name": "New Zealand CPI (Y-o-Y)",
-            "description": "Measures the annual change in New Zealand consumer prices for Q2, a key input to Reserve Bank of New Zealand policy.",
-            "actual": "",
-            "consensus": "",
-            "previous": "3.1%"
-          }
-        ]
-      },
-      {
-        "date": "2026-07-21",
-        "events": [
-          {
-            "id": "3",
-            "name": "UK Unemployment Rate",
-            "description": "Tracks the share of the UK workforce without a job, a key gauge of labour market slack watched by the BoE.",
-            "actual": "",
-            "consensus": "4.9%",
-            "previous": "4.9%"
-          },
-          {
-            "id": "4",
-            "name": "Canada CPI (Y-o-Y)",
-            "description": "Measures the annual change in Canadian consumer prices, a primary input to the Bank of Canada's rate decisions.",
-            "actual": "",
-            "consensus": "2.9%",
-            "previous": "3.2%"
-          }
-        ]
-      },
-      {
-        "date": "2026-07-22",
-        "events": [
-          {
-            "id": "5",
-            "name": "UK CPI (Y-o-Y)",
-            "description": "Tracks the annual change in prices paid by UK consumers, the Bank of England's primary gauge for policy decisions.",
-            "actual": "",
-            "consensus": "",
-            "previous": "2.8%"
-          },
-          {
-            "id": "6",
             "name": "Germany Ifo Business Climate Index",
             "description": "Surveys German firms on current conditions and expectations, a leading indicator for the Eurozone's largest economy.",
             "actual": "",
             "consensus": "",
-            "previous": "85.6"
+            "previous": "85.6 (June)"
           }
         ]
       },
       {
-        "date": "2026-07-23",
+        "date": "2026-07-28",
+        "events": [
+          {
+            "id": "3",
+            "name": "US Consumer Confidence (Conference Board)",
+            "description": "Tracks US household sentiment on jobs, income and inflation, an early signal of consumer spending strength.",
+            "actual": "",
+            "consensus": "",
+            "previous": "91.2 (June)"
+          },
+          {
+            "id": "4",
+            "name": "US Advance Goods Trade Balance",
+            "description": "Estimates the gap between US goods exports and imports for June, an early input into quarterly GDP calculations.",
+            "actual": "",
+            "consensus": "",
+            "previous": "-$105.8B (May)"
+          }
+        ]
+      },
+      {
+        "date": "2026-07-29",
+        "events": [
+          {
+            "id": "5",
+            "name": "US Fed Interest Rate Decision",
+            "description": "Sets the Fed funds target rate; guidance shapes expectations for borrowing costs, the dollar and global markets.",
+            "actual": "",
+            "consensus": "Hold at 3.50%-3.75%",
+            "previous": "3.50%-3.75%"
+          },
+          {
+            "id": "6",
+            "name": "Australia CPI (Q-o-Q)",
+            "description": "Measures the quarterly change in consumer prices; the RBA's trimmed-mean gauge is a key input for rate decisions.",
+            "actual": "",
+            "consensus": "",
+            "previous": "Trimmed mean +3.3% Y-o-Y (Q1)"
+          }
+        ]
+      },
+      {
+        "date": "2026-07-30",
         "events": [
           {
             "id": "7",
-            "name": "Eurozone ECB Interest Rate Decision",
-            "description": "The ECB Governing Council sets the deposit facility rate, driving borrowing costs and the euro across the currency bloc.",
+            "name": "US GDP (Q-o-Q, Advance)",
+            "description": "First estimate of US economic growth for Q2, a key gauge of the economy's overall momentum.",
             "actual": "",
-            "consensus": "2.25%",
-            "previous": "2.25%"
+            "consensus": "",
+            "previous": "+2.1% annualized (Q1, final)"
           },
           {
             "id": "8",
-            "name": "US Initial Jobless Claims",
-            "description": "Counts new US unemployment benefit claims filed weekly, a timely, high-frequency signal of labour market health.",
+            "name": "UK BoE Interest Rate Decision",
+            "description": "Sets the BoE's policy rate; the accompanying Monetary Policy Report signals the path for UK borrowing costs.",
             "actual": "",
-            "consensus": "",
-            "previous": "208K"
+            "consensus": "Hold at 3.75%",
+            "previous": "3.75%"
           }
         ]
       },
       {
-        "date": "2026-07-24",
+        "date": "2026-07-31",
         "events": [
           {
             "id": "9",
-            "name": "US Manufacturing PMI (Flash)",
-            "description": "S&P Global's preliminary gauge of US factory activity, an early read on manufacturing sector momentum.",
+            "name": "Japan BoJ Interest Rate Decision",
+            "description": "Sets Japan's policy rate following 2026 hikes; the Outlook Report signals the pace of further tightening.",
             "actual": "",
-            "consensus": "",
-            "previous": "55.7"
+            "consensus": "Hold at 1.00%",
+            "previous": "1.00% (hiked from 0.75% in June)"
           },
           {
             "id": "10",
-            "name": "Eurozone Services PMI (Flash)",
-            "description": "S&P Global/HCOB's preliminary gauge of Eurozone service-sector activity, a timely signal of bloc-wide growth momentum.",
+            "name": "China Manufacturing PMI",
+            "description": "Gauges factory activity via new orders, output and employment; a reading above 50 signals expansion in China's economy.",
             "actual": "",
             "consensus": "",
-            "previous": "48.9"
+            "previous": "50.3 (June)"
           }
         ]
       }
