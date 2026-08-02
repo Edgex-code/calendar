@@ -1,110 +1,110 @@
 [
   {
-    "week": 28,
-    "weekTitle": "Week of July 20-24, 2026",
+    "week": 30,
+    "weekTitle": "Week of August 3-7, 2026",
     "days": [
       {
-        "date": "2026-07-20",
+        "date": "2026-08-03",
         "events": [
           {
             "id": "1",
-            "name": "China PBOC Loan Prime Rate Decision",
-            "description": "Sets China's benchmark 1-year and 5-year lending rates, guiding borrowing costs and signalling the PBOC's policy stance.",
+            "name": "US ISM Manufacturing PMI",
+            "description": "Tracks US factory activity via new orders, output and employment; a reading above 50 signals expansion.",
             "actual": "",
-            "consensus": "3.00%",
-            "previous": "3.00%"
+            "consensus": "",
+            "previous": "53.3"
           },
           {
             "id": "2",
-            "name": "New Zealand CPI (Y-o-Y)",
-            "description": "Measures the annual change in New Zealand consumer prices for Q2, a key input to Reserve Bank of New Zealand policy.",
+            "name": "China Caixin Manufacturing PMI",
+            "description": "Measures manufacturing activity among small and mid-sized Chinese exporters, a key gauge of industrial momentum.",
             "actual": "",
             "consensus": "",
-            "previous": "3.1%"
+            "previous": "51.7"
           }
         ]
       },
       {
-        "date": "2026-07-21",
+        "date": "2026-08-04",
         "events": [
           {
             "id": "3",
-            "name": "UK Unemployment Rate",
-            "description": "Tracks the share of the UK workforce without a job, a key gauge of labour market slack watched by the BoE.",
+            "name": "US JOLTS Job Openings",
+            "description": "Counts unfilled US job vacancies, a key labour-demand indicator watched closely by the Federal Reserve.",
             "actual": "",
-            "consensus": "4.9%",
-            "previous": "4.9%"
+            "consensus": "",
+            "previous": "7.6M"
           },
           {
             "id": "4",
-            "name": "Canada CPI (Y-o-Y)",
-            "description": "Measures the annual change in Canadian consumer prices, a primary input to the Bank of Canada's rate decisions.",
+            "name": "US Trade Balance",
+            "description": "Measures the gap between US exports and imports of goods and services for the month.",
             "actual": "",
-            "consensus": "2.9%",
-            "previous": "3.2%"
+            "consensus": "",
+            "previous": "-$105.9B"
           }
         ]
       },
       {
-        "date": "2026-07-22",
+        "date": "2026-08-05",
         "events": [
           {
             "id": "5",
-            "name": "UK CPI (Y-o-Y)",
-            "description": "Tracks the annual change in prices paid by UK consumers, the Bank of England's primary gauge for policy decisions.",
+            "name": "UK Services PMI",
+            "description": "Tracks UK services-sector activity, the economy's dominant sector, via output, new business and employment.",
             "actual": "",
-            "consensus": "",
-            "previous": "2.8%"
+            "consensus": "51.8",
+            "previous": "48.8"
           },
           {
             "id": "6",
-            "name": "Germany Ifo Business Climate Index",
-            "description": "Surveys German firms on current conditions and expectations, a leading indicator for the Eurozone's largest economy.",
+            "name": "Eurozone Services PMI",
+            "description": "Measures Eurozone services-sector business activity, the bloc's largest sector and a core signal of growth.",
             "actual": "",
-            "consensus": "",
-            "previous": "85.6"
+            "consensus": "51.6",
+            "previous": "49.4"
           }
         ]
       },
       {
-        "date": "2026-07-23",
+        "date": "2026-08-06",
         "events": [
           {
             "id": "7",
-            "name": "Eurozone ECB Interest Rate Decision",
-            "description": "The ECB Governing Council sets the deposit facility rate, driving borrowing costs and the euro across the currency bloc.",
+            "name": "US Initial Jobless Claims",
+            "description": "Weekly count of new US unemployment benefit claims, an early signal of labour market stress.",
             "actual": "",
-            "consensus": "2.25%",
-            "previous": "2.25%"
+            "consensus": "",
+            "previous": "197K"
           },
           {
             "id": "8",
-            "name": "US Initial Jobless Claims",
-            "description": "Counts new US unemployment benefit claims filed weekly, a timely, high-frequency signal of labour market health.",
+            "name": "Eurozone Retail Sales (M-o-M)",
+            "description": "Tracks the monthly change in Eurozone retail spending, a key gauge of consumer demand and growth.",
             "actual": "",
-            "consensus": "",
-            "previous": "208K"
+            "consensus": "0.4%",
+            "previous": "-0.3%"
           }
         ]
       },
       {
-        "date": "2026-07-24",
+        "date": "2026-08-07",
         "events": [
           {
             "id": "9",
-            "name": "US Manufacturing PMI (Flash)",
-            "description": "S&P Global's preliminary gauge of US factory activity, an early read on manufacturing sector momentum.",
+            "name": "US Nonfarm Payrolls (NFP)",
+            "description": "Reports US job creation and the unemployment rate, the most closely watched US labour market indicator.",
             "actual": "",
-            "consensus": "",
-            "previous": "55.7"
+            "consensus": "130K",
+            "previous": "57K"
           },
           {
             "id": "10",
-            "name": "Eurozone Services PMI (Flash)",
-            "description": "S&P Global/HCOB's preliminary gauge of Eurozone service-sector activity, a timely signal of bloc-wide growth momentum.",
+            "name": "China Trade Balance",
+            "description": "Measures the gap between China's exports and imports, reflecting global demand and trade tensions.",
             "actual": "",
             "consensus": "",
-            "previous": "48.9"
+            "previous": "$125.62B"
           }
         ]
       }
