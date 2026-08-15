@@ -1,110 +1,110 @@
 [
   {
-    "week": 31,
-    "weekTitle": "Week of August 10-14, 2026",
+    "week": 32,
+    "weekTitle": "Week of August 17-21, 2026",
     "days": [
       {
-        "date": "2026-08-10",
+        "date": "2026-08-17",
         "events": [
           {
             "id": "1",
-            "name": "China CPI (Y-o-Y)",
-            "description": "Tracks the year-on-year change in Chinese consumer prices, signalling domestic demand strength and deflation risk.",
+            "name": "Japan GDP (Q-o-Q)",
+            "description": "Preliminary estimate of Japan's second-quarter economic growth, a key gauge of momentum ahead of BoJ policy decisions.",
             "actual": "",
-            "consensus": "",
-            "previous": "1.0%"
+            "consensus": "0.5%",
+            "previous": "0.5%"
           },
           {
             "id": "2",
-            "name": "China PPI (Y-o-Y)",
-            "description": "Measures year-on-year factory-gate price changes in China, reflecting industrial demand and manufacturer margin pressure.",
+            "name": "China Retail Sales (Y-o-Y)",
+            "description": "Tracks the annual growth in Chinese consumer spending, a key gauge of domestic demand strength.",
             "actual": "",
-            "consensus": "",
-            "previous": "-4.1%"
+            "consensus": "1.8%",
+            "previous": "1.0%"
           }
         ]
       },
       {
-        "date": "2026-08-11",
+        "date": "2026-08-18",
         "events": [
           {
             "id": "3",
-            "name": "Australia RBA Interest Rate Decision",
-            "description": "Sets Australia's benchmark cash rate, guiding borrowing costs and signalling the central bank's inflation and growth outlook.",
+            "name": "UK Unemployment Rate",
+            "description": "Share of the UK workforce actively seeking work, a core signal of labour market slack for the BoE.",
             "actual": "",
-            "consensus": "4.35%",
-            "previous": "4.35%"
+            "consensus": "4.9%",
+            "previous": "4.9%"
           },
           {
             "id": "4",
-            "name": "US NFIB Small Business Optimism Index",
-            "description": "Surveys small US business owners on hiring, sales and pricing plans, an early gauge of Main Street confidence.",
+            "name": "US Industrial Production (M-o-M)",
+            "description": "Measures the monthly change in US factory, mining and utility output, a gauge of manufacturing sector health.",
             "actual": "",
             "consensus": "",
-            "previous": "97.4"
+            "previous": "0.1%"
           }
         ]
       },
       {
-        "date": "2026-08-12",
+        "date": "2026-08-19",
         "events": [
           {
             "id": "5",
-            "name": "US CPI (Y-o-Y)",
-            "description": "Tracks the year-on-year change in prices US consumers pay, the Fed's key gauge for setting interest rate policy.",
+            "name": "US FOMC Meeting Minutes",
+            "description": "Detailed record of the Fed's July policy meeting, offering insight into the outlook for interest rates.",
             "actual": "",
             "consensus": "",
-            "previous": "3.5%"
+            "previous": ""
           },
           {
             "id": "6",
-            "name": "Germany ZEW Economic Sentiment",
-            "description": "Surveys financial analysts on Germany's economic outlook six months ahead, an early forward-looking gauge for the Eurozone.",
+            "name": "UK CPI (Y-o-Y)",
+            "description": "Annual change in UK consumer prices, the BoE's primary gauge of inflation for setting interest rates.",
             "actual": "",
-            "consensus": "40.0",
-            "previous": "52.7"
+            "consensus": "3.6%",
+            "previous": "3.6%"
           }
         ]
       },
       {
-        "date": "2026-08-13",
+        "date": "2026-08-20",
         "events": [
           {
             "id": "7",
-            "name": "UK GDP (Q-o-Q)",
-            "description": "Preliminary estimate of the quarterly change in UK economic output, the broadest gauge of growth momentum.",
+            "name": "China Loan Prime Rate (1-Year)",
+            "description": "PBoC's benchmark lending rate, a key policy tool influencing borrowing costs across the Chinese economy.",
             "actual": "",
-            "consensus": "",
-            "previous": "0.6%"
+            "consensus": "3.00%",
+            "previous": "3.00%"
           },
           {
             "id": "8",
             "name": "US Initial Jobless Claims",
-            "description": "Counts new US unemployment benefit filings each week, an early and timely signal of labour market health.",
+            "description": "Weekly count of new unemployment benefit claims, a timely read on the health of the US labour market.",
             "actual": "",
             "consensus": "",
-            "previous": "199K"
+            "previous": "209K"
           }
         ]
       },
       {
-        "date": "2026-08-14",
+        "date": "2026-08-21",
         "events": [
           {
             "id": "9",
-            "name": "Eurozone GDP (Q-o-Q)",
-            "description": "Second estimate of quarterly Eurozone economic output growth, confirming or revising the earlier flash reading.",
+            "name": "Eurozone Services PMI (Flash)",
+            "description": "Preliminary gauge of activity in the eurozone's dominant services sector, signalling growth momentum for the bloc.",
             "actual": "",
-            "consensus": "0.4%",
-            "previous": "0.4%"
+            "consensus": "",
+            "previous": "51.0"
           },
           {
             "id": "10",
-            "name": "US Retail Sales (M-o-M)",
-            "description": "Tracks the monthly change in US consumer spending at retailers, a key driver of economic growth.",
+            "name": "Japan National Core CPI (Y-o-Y)",
+            "description": "Japan's annual inflation rate excluding fresh food, closely watched by the BoJ for sustained price pressure.",
             "actual": "",
-            "consensus": "0.4%",
-            "previous": "0.2%"
+            "consensus": "",
+            "previous": "1.9%"
           }
         ]
       }
