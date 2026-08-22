@@ -1,110 +1,110 @@
 [
   {
-    "week": 32,
-    "weekTitle": "Week of August 17-21, 2026",
+    "week": 33,
+    "weekTitle": "Week of August 24-28, 2026",
     "days": [
       {
-        "date": "2026-08-17",
+        "date": "2026-08-24",
         "events": [
           {
             "id": "1",
-            "name": "Japan GDP (Q-o-Q)",
-            "description": "Preliminary estimate of Japan's second-quarter economic growth, a key gauge of momentum ahead of BoJ policy decisions.",
+            "name": "US Chicago Fed National Activity Index",
+            "description": "Broad monthly gauge combining 85 indicators of economic activity, useful for spotting inflection points in growth.",
             "actual": "",
-            "consensus": "0.5%",
-            "previous": "0.5%"
+            "consensus": "",
+            "previous": "-0.02"
           },
           {
             "id": "2",
-            "name": "China Retail Sales (Y-o-Y)",
-            "description": "Tracks the annual growth in Chinese consumer spending, a key gauge of domestic demand strength.",
+            "name": "Mexico CPI (Y-o-Y)",
+            "description": "Bi-weekly reading of Mexican consumer prices, watched by Banxico as it weighs the pace of further rate cuts.",
             "actual": "",
-            "consensus": "1.8%",
-            "previous": "1.0%"
+            "consensus": "",
+            "previous": ""
           }
         ]
       },
       {
-        "date": "2026-08-18",
+        "date": "2026-08-25",
         "events": [
           {
             "id": "3",
-            "name": "UK Unemployment Rate",
-            "description": "Share of the UK workforce actively seeking work, a core signal of labour market slack for the BoE.",
+            "name": "Germany GDP (Q-o-Q)",
+            "description": "Detailed final estimate of Germany's second-quarter growth, providing a fuller breakdown of the Eurozone's largest economy.",
             "actual": "",
-            "consensus": "4.9%",
-            "previous": "4.9%"
+            "consensus": "",
+            "previous": "0.2%"
           },
           {
             "id": "4",
-            "name": "US Industrial Production (M-o-M)",
-            "description": "Measures the monthly change in US factory, mining and utility output, a gauge of manufacturing sector health.",
+            "name": "US Consumer Confidence",
+            "description": "Conference Board gauge of US household views on current conditions and job prospects, a leading signal for spending.",
             "actual": "",
             "consensus": "",
-            "previous": "0.1%"
+            "previous": "90.8"
           }
         ]
       },
       {
-        "date": "2026-08-19",
+        "date": "2026-08-26",
         "events": [
           {
             "id": "5",
-            "name": "US FOMC Meeting Minutes",
-            "description": "Detailed record of the Fed's July policy meeting, offering insight into the outlook for interest rates.",
+            "name": "US GDP (Q-o-Q)",
+            "description": "Second estimate of Q2 US growth, incorporating fuller trade, inventory and services data than the advance reading.",
+            "actual": "",
+            "consensus": "",
+            "previous": "1.5%"
+          },
+          {
+            "id": "6",
+            "name": "US Core PCE Price Index (Y-o-Y)",
+            "description": "The Fed's preferred inflation gauge excluding food and energy, central to the outlook for interest rate policy.",
+            "actual": "",
+            "consensus": "3.2%",
+            "previous": "3.3%"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-27",
+        "events": [
+          {
+            "id": "7",
+            "name": "US Initial Jobless Claims",
+            "description": "Weekly count of new unemployment benefit filings, a timely, high-frequency read on the health of the US labour market.",
+            "actual": "",
+            "consensus": "",
+            "previous": "206K"
+          },
+          {
+            "id": "8",
+            "name": "China Industrial Profits (Y-o-Y)",
+            "description": "Cumulative Jan-Jul profit growth at large Chinese industrial firms, a gauge of corporate health and demand momentum.",
+            "actual": "",
+            "consensus": "",
+            "previous": "18.7%"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-28",
+        "events": [
+          {
+            "id": "9",
+            "name": "Fed Chair Jackson Hole Keynote",
+            "description": "Chair Kevin Warsh's first Jackson Hole address, closely watched for signals on the path of US monetary policy.",
             "actual": "",
             "consensus": "",
             "previous": ""
           },
           {
-            "id": "6",
-            "name": "UK CPI (Y-o-Y)",
-            "description": "Annual change in UK consumer prices, the BoE's primary gauge of inflation for setting interest rates.",
-            "actual": "",
-            "consensus": "3.6%",
-            "previous": "3.6%"
-          }
-        ]
-      },
-      {
-        "date": "2026-08-20",
-        "events": [
-          {
-            "id": "7",
-            "name": "China Loan Prime Rate (1-Year)",
-            "description": "PBoC's benchmark lending rate, a key policy tool influencing borrowing costs across the Chinese economy.",
-            "actual": "",
-            "consensus": "3.00%",
-            "previous": "3.00%"
-          },
-          {
-            "id": "8",
-            "name": "US Initial Jobless Claims",
-            "description": "Weekly count of new unemployment benefit claims, a timely read on the health of the US labour market.",
-            "actual": "",
-            "consensus": "",
-            "previous": "209K"
-          }
-        ]
-      },
-      {
-        "date": "2026-08-21",
-        "events": [
-          {
-            "id": "9",
-            "name": "Eurozone Services PMI (Flash)",
-            "description": "Preliminary gauge of activity in the eurozone's dominant services sector, signalling growth momentum for the bloc.",
-            "actual": "",
-            "consensus": "",
-            "previous": "51.0"
-          },
-          {
             "id": "10",
-            "name": "Japan National Core CPI (Y-o-Y)",
-            "description": "Japan's annual inflation rate excluding fresh food, closely watched by the BoJ for sustained price pressure.",
+            "name": "Japan Tokyo CPI (Y-o-Y)",
+            "description": "Preliminary Tokyo inflation reading, a leading indicator for national CPI closely watched by the BoJ for price trends.",
             "actual": "",
             "consensus": "",
-            "previous": "1.9%"
+            "previous": "2.9%"
           }
         ]
       }
