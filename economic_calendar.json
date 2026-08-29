@@ -1,23 +1,65 @@
 [
   {
-    "week": 33,
-    "weekTitle": "Week of August 24-28, 2026",
+    "week": 34,
+    "weekTitle": "Week of August 31-September 4, 2026",
     "days": [
       {
-        "date": "2026-08-24",
+        "date": "2026-08-31",
         "events": [
           {
             "id": "1",
-            "name": "US Chicago Fed National Activity Index",
-            "description": "Broad monthly gauge combining 85 indicators of economic activity, useful for spotting inflection points in growth.",
+            "name": "China NBS Manufacturing PMI",
+            "description": "Official gauge of factory output, new orders and employment in China; a reading below 50 signals contraction.",
             "actual": "",
             "consensus": "",
-            "previous": "-0.02"
+            "previous": "49.2"
           },
           {
             "id": "2",
-            "name": "Mexico CPI (Y-o-Y)",
-            "description": "Bi-weekly reading of Mexican consumer prices, watched by Banxico as it weighs the pace of further rate cuts.",
+            "name": "Germany CPI (Y-o-Y, Prelim)",
+            "description": "Preliminary annual change in German consumer prices, a leading signal for the Eurozone-wide inflation reading.",
+            "actual": "",
+            "consensus": "",
+            "previous": "2.8%"
+          }
+        ]
+      },
+      {
+        "date": "2026-09-01",
+        "events": [
+          {
+            "id": "3",
+            "name": "Eurozone CPI (Y-o-Y, Flash)",
+            "description": "Preliminary estimate of Eurozone consumer price inflation, a key input for upcoming European Central Bank policy decisions.",
+            "actual": "",
+            "consensus": "",
+            "previous": "2.9%"
+          },
+          {
+            "id": "4",
+            "name": "US ISM Manufacturing PMI",
+            "description": "Survey of US factory purchasing managers on output, orders and employment, gauging manufacturing sector health.",
+            "actual": "",
+            "consensus": "",
+            "previous": "55.6"
+          }
+        ]
+      },
+      {
+        "date": "2026-09-02",
+        "events": [
+          {
+            "id": "5",
+            "name": "US ADP Employment Change",
+            "description": "Monthly change in US private-sector payrolls, an early signal ahead of Friday's official jobs report.",
+            "actual": "",
+            "consensus": "",
+            "previous": "44K"
+          },
+          {
+            "id": "6",
+            "name": "US Fed Beige Book",
+            "description": "Federal Reserve's qualitative summary of regional economic conditions, informing the upcoming FOMC interest-rate decision.",
             "actual": "",
             "consensus": "",
             "previous": ""
@@ -25,86 +67,44 @@
         ]
       },
       {
-        "date": "2026-08-25",
-        "events": [
-          {
-            "id": "3",
-            "name": "Germany GDP (Q-o-Q)",
-            "description": "Detailed final estimate of Germany's second-quarter growth, providing a fuller breakdown of the Eurozone's largest economy.",
-            "actual": "",
-            "consensus": "",
-            "previous": "0.2%"
-          },
-          {
-            "id": "4",
-            "name": "US Consumer Confidence",
-            "description": "Conference Board gauge of US household views on current conditions and job prospects, a leading signal for spending.",
-            "actual": "",
-            "consensus": "",
-            "previous": "90.8"
-          }
-        ]
-      },
-      {
-        "date": "2026-08-26",
-        "events": [
-          {
-            "id": "5",
-            "name": "US GDP (Q-o-Q)",
-            "description": "Second estimate of Q2 US growth, incorporating fuller trade, inventory and services data than the advance reading.",
-            "actual": "",
-            "consensus": "",
-            "previous": "1.5%"
-          },
-          {
-            "id": "6",
-            "name": "US Core PCE Price Index (Y-o-Y)",
-            "description": "The Fed's preferred inflation gauge excluding food and energy, central to the outlook for interest rate policy.",
-            "actual": "",
-            "consensus": "3.2%",
-            "previous": "3.3%"
-          }
-        ]
-      },
-      {
-        "date": "2026-08-27",
+        "date": "2026-09-03",
         "events": [
           {
             "id": "7",
             "name": "US Initial Jobless Claims",
-            "description": "Weekly count of new unemployment benefit filings, a timely, high-frequency read on the health of the US labour market.",
+            "description": "Weekly count of new US unemployment benefit filings, a timely gauge of labour market health.",
             "actual": "",
             "consensus": "",
-            "previous": "206K"
+            "previous": "203K"
           },
           {
             "id": "8",
-            "name": "China Industrial Profits (Y-o-Y)",
-            "description": "Cumulative Jan-Jul profit growth at large Chinese industrial firms, a gauge of corporate health and demand momentum.",
+            "name": "UK Services PMI (Final)",
+            "description": "Tracks activity in the UK's dominant services sector via new business, output and employment among purchasing managers.",
             "actual": "",
-            "consensus": "",
-            "previous": "18.7%"
+            "consensus": "52.8",
+            "previous": "52.1"
           }
         ]
       },
       {
-        "date": "2026-08-28",
+        "date": "2026-09-04",
         "events": [
           {
             "id": "9",
-            "name": "Fed Chair Jackson Hole Keynote",
-            "description": "Chair Kevin Warsh's first Jackson Hole address, closely watched for signals on the path of US monetary policy.",
+            "name": "US Nonfarm Payrolls (NFP)",
+            "description": "Monthly change in US non-farm employment, the most closely watched indicator of US labour market strength.",
             "actual": "",
-            "consensus": "",
-            "previous": ""
+            "consensus": "80K",
+            "previous": "-23K"
           },
           {
             "id": "10",
-            "name": "Japan Tokyo CPI (Y-o-Y)",
-            "description": "Preliminary Tokyo inflation reading, a leading indicator for national CPI closely watched by the BoJ for price trends.",
+            "name": "US Unemployment Rate",
+            "description": "Share of the US labour force that is unemployed and actively seeking work, a core gauge of labour slack.",
             "actual": "",
-            "consensus": "",
-            "previous": "2.9%"
+            "consensus": "4.2%",
+            "previous": "4.1%"
           }
         ]
       }
