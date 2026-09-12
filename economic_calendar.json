@@ -1,81 +1,81 @@
 [
   {
-    "week": 35,
-    "weekTitle": "Week of September 7-11, 2026",
+    "week": 36,
+    "weekTitle": "Week of September 14-18, 2026",
     "days": [
       {
-        "date": "2026-09-07",
+        "date": "2026-09-14",
         "events": [
           {
             "id": "1",
-            "name": "Eurozone GDP (Q-o-Q)",
-            "description": "Final third estimate of eurozone second-quarter growth, confirming whether momentum matches the earlier flash and second readings.",
+            "name": "Canada CPI (Y-o-Y)",
+            "description": "Measures the annual change in Canadian consumer prices, guiding the Bank of Canada's policy rate outlook.",
             "actual": "",
-            "consensus": "",
-            "previous": "0.4%"
+            "consensus": "3.0%",
+            "previous": "3.0%"
           },
           {
             "id": "2",
-            "name": "Eurozone Sentix Investor Confidence",
-            "description": "Monthly survey of investor sentiment on the eurozone economy, an early signal for growth and risk appetite.",
+            "name": "China New Yuan Loans",
+            "description": "Tracks new bank lending in China, a key gauge of credit demand and monetary policy transmission.",
             "actual": "",
             "consensus": "",
-            "previous": ""
+            "previous": "CNY -340B"
           }
         ]
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-15",
         "events": [
           {
             "id": "3",
-            "name": "Japan GDP (Q-o-Q, Revised)",
-            "description": "Revised second-quarter growth reading incorporating updated capital expenditure and inventory data from Japanese firms.",
+            "name": "China Retail Sales (Y-o-Y)",
+            "description": "Measures growth in Chinese consumer spending, signalling the strength of domestic demand amid a slowing property sector.",
             "actual": "",
-            "consensus": "",
-            "previous": "0.3%"
+            "consensus": "0.6%",
+            "previous": "0.6%"
           },
           {
             "id": "4",
-            "name": "China Trade Balance",
-            "description": "Difference between China's exports and imports, a key gauge of external demand and global trade momentum.",
+            "name": "UK Unemployment Rate",
+            "description": "ILO jobless rate for the UK labour market, informing the Bank of England's assessment of wage and inflation pressures.",
             "actual": "",
-            "consensus": "",
-            "previous": ""
+            "consensus": "4.9%",
+            "previous": "4.9%"
           }
         ]
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-09-16",
         "events": [
           {
             "id": "5",
-            "name": "China CPI (Y-o-Y)",
-            "description": "Measures the change in Chinese consumer prices, signalling whether the economy is emerging from prolonged deflationary pressure.",
+            "name": "US Interest Rate Decision (Fed)",
+            "description": "FOMC's benchmark rate decision, closely contested amid a finely balanced debate over further tightening to curb inflation.",
             "actual": "",
-            "consensus": "0.9%",
-            "previous": "0.5%"
+            "consensus": "3.75%-4.00%",
+            "previous": "3.50%-3.75%"
           },
           {
             "id": "6",
-            "name": "China PPI (Y-o-Y)",
-            "description": "Tracks factory-gate prices in China, a leading indicator of industrial profitability and broader deflation trends.",
+            "name": "UK CPI (Y-o-Y)",
+            "description": "Key UK inflation gauge for August, shaping expectations for the Bank of England's next policy move.",
             "actual": "",
             "consensus": "",
-            "previous": ""
+            "previous": "2.9%"
           }
         ]
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-09-17",
         "events": [
           {
             "id": "7",
-            "name": "Eurozone Interest Rate Decision (ECB)",
-            "description": "Governing Council rate decision, with markets pricing a likely hike as energy-driven inflation pressures persist.",
+            "name": "UK Interest Rate Decision (BoE)",
+            "description": "Bank of England's Bank Rate announcement, with policymakers weighing sticky inflation against a cooling labour market.",
             "actual": "",
-            "consensus": "2.50%",
-            "previous": "2.25%"
+            "consensus": "3.75%",
+            "previous": "3.75%"
           },
           {
             "id": "8",
@@ -88,23 +88,23 @@
         ]
       },
       {
-        "date": "2026-09-11",
+        "date": "2026-09-18",
         "events": [
           {
             "id": "9",
-            "name": "US CPI (Y-o-Y)",
-            "description": "Key US inflation gauge for August, shaping Fed policy expectations ahead of the September FOMC meeting.",
+            "name": "Japan Interest Rate Decision (BoJ)",
+            "description": "Bank of Japan's policy rate announcement, with markets pricing a high probability of a further hike.",
             "actual": "",
-            "consensus": "",
-            "previous": "3.4%"
+            "consensus": "1.00%",
+            "previous": "0.75%"
           },
           {
             "id": "10",
-            "name": "UK GDP (M-o-M)",
-            "description": "Monthly output estimate for July, showing whether the UK economy is expanding or stalling early in Q3.",
+            "name": "Eurozone Trade Balance",
+            "description": "Difference between eurozone exports and imports, reflecting external demand and the currency bloc's competitiveness.",
             "actual": "",
             "consensus": "",
-            "previous": "0.3%"
+            "previous": "€8.6B"
           }
         ]
       }
