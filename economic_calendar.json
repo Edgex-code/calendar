@@ -1,110 +1,110 @@
 [
   {
-    "week": 36,
-    "weekTitle": "Week of September 14-18, 2026",
+    "week": 37,
+    "weekTitle": "Week of September 21-25, 2026",
     "days": [
       {
-        "date": "2026-09-14",
+        "date": "2026-09-21",
         "events": [
           {
             "id": "1",
-            "name": "Canada CPI (Y-o-Y)",
-            "description": "Measures the annual change in Canadian consumer prices, guiding the Bank of Canada's policy rate outlook.",
+            "name": "China Interest Rate Decision (PBoC LPR)",
+            "description": "The PBoC's monthly Loan Prime Rate fixing, a key signal of Beijing's credit and stimulus stance for the economy.",
             "actual": "",
-            "consensus": "3.0%",
-            "previous": "3.0%"
+            "consensus": "3.00%",
+            "previous": "3.00%"
           },
           {
             "id": "2",
-            "name": "China New Yuan Loans",
-            "description": "Tracks new bank lending in China, a key gauge of credit demand and monetary policy transmission.",
+            "name": "US Chicago Fed National Activity Index",
+            "description": "A composite of 85 US economic indicators showing whether growth is running above or below its historical trend.",
             "actual": "",
             "consensus": "",
-            "previous": "CNY -340B"
+            "previous": ""
           }
         ]
       },
       {
-        "date": "2026-09-15",
+        "date": "2026-09-22",
         "events": [
           {
             "id": "3",
-            "name": "China Retail Sales (Y-o-Y)",
-            "description": "Measures growth in Chinese consumer spending, signalling the strength of domestic demand amid a slowing property sector.",
+            "name": "Eurozone Consumer Confidence (Flash)",
+            "description": "Preliminary gauge of eurozone household sentiment, an early signal for consumer spending and growth momentum.",
             "actual": "",
-            "consensus": "0.6%",
-            "previous": "0.6%"
+            "consensus": "",
+            "previous": "-15.5"
           },
           {
             "id": "4",
-            "name": "UK Unemployment Rate",
-            "description": "ILO jobless rate for the UK labour market, informing the Bank of England's assessment of wage and inflation pressures.",
+            "name": "US Richmond Fed Manufacturing Index",
+            "description": "Regional factory activity survey for the Fed's Fifth District, an early read on national manufacturing trends.",
             "actual": "",
-            "consensus": "4.9%",
-            "previous": "4.9%"
+            "consensus": "",
+            "previous": ""
           }
         ]
       },
       {
-        "date": "2026-09-16",
+        "date": "2026-09-23",
         "events": [
           {
             "id": "5",
-            "name": "US Interest Rate Decision (Fed)",
-            "description": "FOMC's benchmark rate decision, closely contested amid a finely balanced debate over further tightening to curb inflation.",
+            "name": "US Manufacturing PMI (Flash)",
+            "description": "Preliminary S&P Global survey of US factory activity, an early signal on output, new orders and price pressures.",
             "actual": "",
-            "consensus": "3.75%-4.00%",
-            "previous": "3.50%-3.75%"
+            "consensus": "",
+            "previous": "53.9"
           },
           {
             "id": "6",
-            "name": "UK CPI (Y-o-Y)",
-            "description": "Key UK inflation gauge for August, shaping expectations for the Bank of England's next policy move.",
+            "name": "UK Services PMI (Flash)",
+            "description": "Preliminary survey of UK services-sector activity, the dominant driver of GDP and a key input to BoE policy.",
             "actual": "",
             "consensus": "",
-            "previous": "2.9%"
+            "previous": "52.5"
           }
         ]
       },
       {
-        "date": "2026-09-17",
+        "date": "2026-09-24",
         "events": [
           {
             "id": "7",
-            "name": "UK Interest Rate Decision (BoE)",
-            "description": "Bank of England's Bank Rate announcement, with policymakers weighing sticky inflation against a cooling labour market.",
-            "actual": "",
-            "consensus": "3.75%",
-            "previous": "3.75%"
-          },
-          {
-            "id": "8",
             "name": "US Initial Jobless Claims",
             "description": "Weekly count of new unemployment benefit filings, a timely, high-frequency read on US labour market health.",
             "actual": "",
             "consensus": "",
-            "previous": "206K"
+            "previous": "196K"
+          },
+          {
+            "id": "8",
+            "name": "Germany Ifo Business Climate Index",
+            "description": "Survey of German business sentiment on current conditions and expectations, a leading indicator for the eurozone's largest economy.",
+            "actual": "",
+            "consensus": "",
+            "previous": "88.8"
           }
         ]
       },
       {
-        "date": "2026-09-18",
+        "date": "2026-09-25",
         "events": [
           {
             "id": "9",
-            "name": "Japan Interest Rate Decision (BoJ)",
-            "description": "Bank of Japan's policy rate announcement, with markets pricing a high probability of a further hike.",
+            "name": "US Durable Goods Orders (M-o-M)",
+            "description": "Measures new orders placed with manufacturers for long-lasting goods, a gauge of business investment and factory demand.",
             "actual": "",
-            "consensus": "1.00%",
-            "previous": "0.75%"
+            "consensus": "",
+            "previous": "1.1%"
           },
           {
             "id": "10",
-            "name": "Eurozone Trade Balance",
-            "description": "Difference between eurozone exports and imports, reflecting external demand and the currency bloc's competitiveness.",
+            "name": "UK GfK Consumer Confidence",
+            "description": "Survey of UK household sentiment on personal finances and the wider economy, a guide to consumer spending trends.",
             "actual": "",
             "consensus": "",
-            "previous": "€8.6B"
+            "previous": "-14"
           }
         ]
       }
