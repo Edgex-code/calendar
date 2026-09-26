@@ -1,110 +1,110 @@
 [
   {
-    "week": 37,
-    "weekTitle": "Week of September 21-25, 2026",
+    "week": 38,
+    "weekTitle": "Week of September 28-October 2, 2026",
     "days": [
       {
-        "date": "2026-09-21",
+        "date": "2026-09-28",
         "events": [
           {
             "id": "1",
-            "name": "China Interest Rate Decision (PBoC LPR)",
-            "description": "The PBoC's monthly Loan Prime Rate fixing, a key signal of Beijing's credit and stimulus stance for the economy.",
+            "name": "US Dallas Fed Manufacturing Index",
+            "description": "Regional Federal Reserve survey of Texas factory activity, an early gauge of US manufacturing sentiment and output.",
             "actual": "",
-            "consensus": "3.00%",
-            "previous": "3.00%"
+            "consensus": "",
+            "previous": "11.6"
           },
           {
             "id": "2",
-            "name": "US Chicago Fed National Activity Index",
-            "description": "A composite of 85 US economic indicators showing whether growth is running above or below its historical trend.",
+            "name": "China Industrial Profits (Y-o-Y, YTD)",
+            "description": "Cumulative year-to-date profit growth at large Chinese industrial firms, signalling corporate health and manufacturing momentum.",
             "actual": "",
             "consensus": "",
-            "previous": ""
+            "previous": "17.6%"
           }
         ]
       },
       {
-        "date": "2026-09-22",
+        "date": "2026-09-29",
         "events": [
           {
             "id": "3",
-            "name": "Eurozone Consumer Confidence (Flash)",
-            "description": "Preliminary gauge of eurozone household sentiment, an early signal for consumer spending and growth momentum.",
+            "name": "RBA Interest Rate Decision",
+            "description": "Reserve Bank of Australia's cash rate decision, a key signal of monetary policy direction for the Australian economy.",
             "actual": "",
-            "consensus": "",
-            "previous": "-15.5"
+            "consensus": "4.60%",
+            "previous": "4.35%"
           },
           {
             "id": "4",
-            "name": "US Richmond Fed Manufacturing Index",
-            "description": "Regional factory activity survey for the Fed's Fifth District, an early read on national manufacturing trends.",
+            "name": "US Consumer Confidence (Conference Board)",
+            "description": "Survey of US household sentiment on current conditions and job prospects, a leading indicator of consumer spending.",
             "actual": "",
             "consensus": "",
-            "previous": ""
+            "previous": "89.4"
           }
         ]
       },
       {
-        "date": "2026-09-23",
+        "date": "2026-09-30",
         "events": [
           {
             "id": "5",
-            "name": "US Manufacturing PMI (Flash)",
-            "description": "Preliminary S&P Global survey of US factory activity, an early signal on output, new orders and price pressures.",
+            "name": "US PCE Price Index (Y-o-Y)",
+            "description": "The Fed's preferred inflation gauge, tracking price changes across consumer spending and shaping the outlook for policy.",
             "actual": "",
             "consensus": "",
-            "previous": "53.9"
+            "previous": "3.7%"
           },
           {
             "id": "6",
-            "name": "UK Services PMI (Flash)",
-            "description": "Preliminary survey of UK services-sector activity, the dominant driver of GDP and a key input to BoE policy.",
+            "name": "China Manufacturing PMI (NBS)",
+            "description": "Official gauge of factory activity in China, indicating whether manufacturing output is expanding or contracting.",
             "actual": "",
             "consensus": "",
-            "previous": "52.5"
+            "previous": "49.8"
           }
         ]
       },
       {
-        "date": "2026-09-24",
+        "date": "2026-10-01",
         "events": [
           {
             "id": "7",
             "name": "US Initial Jobless Claims",
-            "description": "Weekly count of new unemployment benefit filings, a timely, high-frequency read on US labour market health.",
+            "description": "Weekly tally of new US unemployment benefit claims, offering a fast, high-frequency read on labour market strength.",
             "actual": "",
             "consensus": "",
-            "previous": "196K"
+            "previous": "197K"
           },
           {
             "id": "8",
-            "name": "Germany Ifo Business Climate Index",
-            "description": "Survey of German business sentiment on current conditions and expectations, a leading indicator for the eurozone's largest economy.",
+            "name": "Japan Tankan Large Manufacturers Index",
+            "description": "BoJ's quarterly survey of large manufacturers' business sentiment, a key input for Japan's monetary policy outlook.",
             "actual": "",
             "consensus": "",
-            "previous": "88.8"
+            "previous": "22"
           }
         ]
       },
       {
-        "date": "2026-09-25",
+        "date": "2026-10-02",
         "events": [
           {
             "id": "9",
-            "name": "US Durable Goods Orders (M-o-M)",
-            "description": "Measures new orders placed with manufacturers for long-lasting goods, a gauge of business investment and factory demand.",
+            "name": "US Nonfarm Payrolls",
+            "description": "Monthly change in US employment excluding farms, the most closely watched gauge of labour market strength and Fed policy.",
             "actual": "",
-            "consensus": "",
-            "previous": "1.1%"
+            "consensus": "100K",
+            "previous": "162K"
           },
           {
             "id": "10",
-            "name": "UK GfK Consumer Confidence",
-            "description": "Survey of UK household sentiment on personal finances and the wider economy, a guide to consumer spending trends.",
+            "name": "Eurozone HICP Inflation (Flash, Y-o-Y)",
+            "description": "Preliminary euro area inflation estimate, a critical input for the ECB's interest rate and policy decisions.",
             "actual": "",
             "consensus": "",
-            "previous": "-14"
+            "previous": "3.2%"
           }
         ]
       }
