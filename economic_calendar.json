@@ -1,110 +1,110 @@
 [
   {
-    "week": 38,
-    "weekTitle": "Week of September 28-October 2, 2026",
+    "week": 39,
+    "weekTitle": "Week of October 5-9, 2026",
     "days": [
       {
-        "date": "2026-09-28",
+        "date": "2026-10-05",
         "events": [
           {
             "id": "1",
-            "name": "US Dallas Fed Manufacturing Index",
-            "description": "Regional Federal Reserve survey of Texas factory activity, an early gauge of US manufacturing sentiment and output.",
+            "name": "US ISM Services PMI",
+            "description": "Survey of US service-sector purchasing managers; readings above 50 signal expansion in the economy's largest sector.",
             "actual": "",
-            "consensus": "",
-            "previous": "11.6"
+            "consensus": "55.1",
+            "previous": "55.4"
           },
           {
             "id": "2",
-            "name": "China Industrial Profits (Y-o-Y, YTD)",
-            "description": "Cumulative year-to-date profit growth at large Chinese industrial firms, signalling corporate health and manufacturing momentum.",
+            "name": "Eurozone Services PMI",
+            "description": "Final S&P Global survey of Eurozone service-sector activity, a timely gauge of growth in the bloc's dominant sector.",
             "actual": "",
-            "consensus": "",
-            "previous": "17.6%"
+            "consensus": "53.0",
+            "previous": "51.6"
           }
         ]
       },
       {
-        "date": "2026-09-29",
+        "date": "2026-10-06",
         "events": [
           {
             "id": "3",
-            "name": "RBA Interest Rate Decision",
-            "description": "Reserve Bank of Australia's cash rate decision, a key signal of monetary policy direction for the Australian economy.",
+            "name": "US Trade Balance",
+            "description": "Monthly gap between US exports and imports of goods and services; feeds into GDP and dollar flows.",
             "actual": "",
-            "consensus": "4.60%",
-            "previous": "4.35%"
+            "consensus": "",
+            "previous": "-$88.6B"
           },
           {
             "id": "4",
-            "name": "US Consumer Confidence (Conference Board)",
-            "description": "Survey of US household sentiment on current conditions and job prospects, a leading indicator of consumer spending.",
+            "name": "Eurozone Retail Sales (M-o-M)",
+            "description": "Change in the volume of Eurozone retail sales, a key indicator of household consumption strength.",
             "actual": "",
             "consensus": "",
-            "previous": "89.4"
+            "previous": "-0.6%"
           }
         ]
       },
       {
-        "date": "2026-09-30",
+        "date": "2026-10-07",
         "events": [
           {
             "id": "5",
-            "name": "US PCE Price Index (Y-o-Y)",
-            "description": "The Fed's preferred inflation gauge, tracking price changes across consumer spending and shaping the outlook for policy.",
+            "name": "US FOMC Meeting Minutes",
+            "description": "Detailed record of the Fed's September policy meeting, offering clues on the future path of interest rates.",
             "actual": "",
             "consensus": "",
-            "previous": "3.7%"
+            "previous": ""
           },
           {
             "id": "6",
-            "name": "China Manufacturing PMI (NBS)",
-            "description": "Official gauge of factory activity in China, indicating whether manufacturing output is expanding or contracting.",
+            "name": "RBI Interest Rate Decision",
+            "description": "Reserve Bank of India's repo rate decision, a key signal of monetary policy for the Indian economy.",
             "actual": "",
-            "consensus": "",
-            "previous": "49.8"
+            "consensus": "5.25%",
+            "previous": "5.25%"
           }
         ]
       },
       {
-        "date": "2026-10-01",
+        "date": "2026-10-08",
         "events": [
           {
             "id": "7",
             "name": "US Initial Jobless Claims",
-            "description": "Weekly tally of new US unemployment benefit claims, offering a fast, high-frequency read on labour market strength.",
+            "description": "Weekly count of new US unemployment benefit filings, a timely read on labour-market health.",
             "actual": "",
             "consensus": "",
             "previous": "197K"
           },
           {
             "id": "8",
-            "name": "Japan Tankan Large Manufacturers Index",
-            "description": "BoJ's quarterly survey of large manufacturers' business sentiment, a key input for Japan's monetary policy outlook.",
+            "name": "Germany Industrial Production (M-o-M)",
+            "description": "Monthly change in German factory, energy and construction output, signalling momentum in Europe's largest economy.",
             "actual": "",
             "consensus": "",
-            "previous": "22"
+            "previous": "-1.1%"
           }
         ]
       },
       {
-        "date": "2026-10-02",
+        "date": "2026-10-09",
         "events": [
           {
             "id": "9",
-            "name": "US Nonfarm Payrolls",
-            "description": "Monthly change in US employment excluding farms, the most closely watched gauge of labour market strength and Fed policy.",
+            "name": "Canada Employment Change",
+            "description": "Monthly change in Canadian jobs from the Labour Force Survey, a major driver of Bank of Canada expectations.",
             "actual": "",
-            "consensus": "100K",
-            "previous": "162K"
+            "consensus": "9.2K",
+            "previous": "-41.7K"
           },
           {
             "id": "10",
-            "name": "Eurozone HICP Inflation (Flash, Y-o-Y)",
-            "description": "Preliminary euro area inflation estimate, a critical input for the ECB's interest rate and policy decisions.",
+            "name": "Canada Unemployment Rate",
+            "description": "Share of Canada's labour force that is jobless, a core measure of labour-market slack.",
             "actual": "",
-            "consensus": "",
-            "previous": "3.2%"
+            "consensus": "6.5%",
+            "previous": "6.4%"
           }
         ]
       }
