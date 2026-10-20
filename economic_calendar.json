@@ -1,110 +1,110 @@
 [
   {
-    "week": 39,
-    "weekTitle": "Week of October 5-9, 2026",
+    "week": 41,
+    "weekTitle": "Week of October 19-23, 2026",
     "days": [
       {
-        "date": "2026-10-05",
+        "date": "2026-10-19",
         "events": [
           {
             "id": "1",
-            "name": "US ISM Services PMI",
-            "description": "Survey of US service-sector purchasing managers; readings above 50 signal expansion in the economy's largest sector.",
-            "actual": "",
-            "consensus": "55.1",
-            "previous": "55.4"
-          },
-          {
-            "id": "2",
-            "name": "Eurozone Services PMI",
-            "description": "Final S&P Global survey of Eurozone service-sector activity, a timely gauge of growth in the bloc's dominant sector.",
-            "actual": "",
-            "consensus": "53.0",
-            "previous": "51.6"
-          }
-        ]
-      },
-      {
-        "date": "2026-10-06",
-        "events": [
-          {
-            "id": "3",
-            "name": "US Trade Balance",
-            "description": "Monthly gap between US exports and imports of goods and services; feeds into GDP and dollar flows.",
-            "actual": "",
-            "consensus": "",
-            "previous": "-$88.6B"
-          },
-          {
-            "id": "4",
-            "name": "Eurozone Retail Sales (M-o-M)",
-            "description": "Change in the volume of Eurozone retail sales, a key indicator of household consumption strength.",
-            "actual": "",
-            "consensus": "",
-            "previous": "-0.6%"
-          }
-        ]
-      },
-      {
-        "date": "2026-10-07",
-        "events": [
-          {
-            "id": "5",
-            "name": "US FOMC Meeting Minutes",
-            "description": "Detailed record of the Fed's September policy meeting, offering clues on the future path of interest rates.",
+            "name": "China GDP (Q-o-Q)",
+            "description": "Quarterly change in China's real output; the broadest gauge of growth in the world's second-largest economy.",
             "actual": "",
             "consensus": "",
             "previous": ""
           },
           {
-            "id": "6",
-            "name": "RBI Interest Rate Decision",
-            "description": "Reserve Bank of India's repo rate decision, a key signal of monetary policy for the Indian economy.",
+            "id": "2",
+            "name": "China Retail Sales (Y-o-Y)",
+            "description": "Year-on-year change in Chinese consumer spending, a key read on domestic demand strength.",
             "actual": "",
-            "consensus": "5.25%",
-            "previous": "5.25%"
+            "consensus": "",
+            "previous": ""
           }
         ]
       },
       {
-        "date": "2026-10-08",
+        "date": "2026-10-20",
+        "events": [
+          {
+            "id": "3",
+            "name": "China 1-Year Loan Prime Rate",
+            "description": "PBoC benchmark lending rate for new loans; signals the stance of Chinese monetary policy.",
+            "actual": "",
+            "consensus": "3.00%",
+            "previous": "3.00%"
+          },
+          {
+            "id": "4",
+            "name": "UK Unemployment Rate",
+            "description": "Share of the UK labour force without work; influences BoE rate and wage-growth expectations.",
+            "actual": "",
+            "consensus": "",
+            "previous": "5.0%"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-21",
+        "events": [
+          {
+            "id": "5",
+            "name": "UK CPI (Y-o-Y)",
+            "description": "Annual change in UK consumer prices, the BoE's main inflation gauge and a driver of rate expectations.",
+            "actual": "",
+            "consensus": "3.4%",
+            "previous": "3.1%"
+          },
+          {
+            "id": "6",
+            "name": "New Zealand CPI (Q-o-Q)",
+            "description": "Quarterly change in New Zealand consumer prices; guides RBNZ policy and NZ dollar direction.",
+            "actual": "",
+            "consensus": "",
+            "previous": ""
+          }
+        ]
+      },
+      {
+        "date": "2026-10-22",
         "events": [
           {
             "id": "7",
             "name": "US Initial Jobless Claims",
-            "description": "Weekly count of new US unemployment benefit filings, a timely read on labour-market health.",
+            "description": "Weekly count of new US unemployment benefit filings; a timely indicator of labour market health.",
             "actual": "",
             "consensus": "",
-            "previous": "197K"
+            "previous": ""
           },
           {
             "id": "8",
-            "name": "Germany Industrial Production (M-o-M)",
-            "description": "Monthly change in German factory, energy and construction output, signalling momentum in Europe's largest economy.",
+            "name": "US Leading Index (M-o-M)",
+            "description": "Composite of forward-looking US indicators, used to gauge the economic outlook.",
             "actual": "",
             "consensus": "",
-            "previous": "-1.1%"
+            "previous": ""
           }
         ]
       },
       {
-        "date": "2026-10-09",
+        "date": "2026-10-23",
         "events": [
           {
             "id": "9",
-            "name": "Canada Employment Change",
-            "description": "Monthly change in Canadian jobs from the Labour Force Survey, a major driver of Bank of Canada expectations.",
+            "name": "US Manufacturing PMI (Flash)",
+            "description": "Preliminary S&P Global survey of US factory activity; readings above 50 signal expansion.",
             "actual": "",
-            "consensus": "9.2K",
-            "previous": "-41.7K"
+            "consensus": "",
+            "previous": "57.0"
           },
           {
             "id": "10",
-            "name": "Canada Unemployment Rate",
-            "description": "Share of Canada's labour force that is jobless, a core measure of labour-market slack.",
+            "name": "Eurozone Services PMI (Flash)",
+            "description": "Preliminary S&P Global survey of Eurozone service-sector activity; an early read on growth and ECB policy.",
             "actual": "",
-            "consensus": "6.5%",
-            "previous": "6.4%"
+            "consensus": "",
+            "previous": "53.0"
           }
         ]
       }
