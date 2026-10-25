@@ -1,65 +1,65 @@
 [
   {
-    "week": 41,
-    "weekTitle": "Week of October 19-23, 2026",
+    "week": 42,
+    "weekTitle": "Week of October 26-30, 2026",
     "days": [
       {
-        "date": "2026-10-19",
+        "date": "2026-10-26",
         "events": [
           {
             "id": "1",
-            "name": "China GDP (Q-o-Q)",
-            "description": "Quarterly change in China's real output; the broadest gauge of growth in the world's second-largest economy.",
+            "name": "Germany Ifo Business Climate",
+            "description": "Survey of German firms' current conditions and expectations; a leading indicator for Eurozone's largest economy.",
             "actual": "",
             "consensus": "",
-            "previous": ""
+            "previous": "89.9"
           },
           {
             "id": "2",
-            "name": "China Retail Sales (Y-o-Y)",
-            "description": "Year-on-year change in Chinese consumer spending, a key read on domestic demand strength.",
+            "name": "US Dallas Fed Manufacturing Index",
+            "description": "Texas factory activity survey; an early read on US manufacturing conditions ahead of national data.",
             "actual": "",
-            "consensus": "",
-            "previous": ""
+            "consensus": "7",
+            "previous": "9.8"
           }
         ]
       },
       {
-        "date": "2026-10-20",
+        "date": "2026-10-27",
         "events": [
           {
             "id": "3",
-            "name": "China 1-Year Loan Prime Rate",
-            "description": "PBoC benchmark lending rate for new loans; signals the stance of Chinese monetary policy.",
+            "name": "US CB Consumer Confidence",
+            "description": "Conference Board survey of household sentiment on jobs and business conditions; guides consumer spending outlook.",
             "actual": "",
-            "consensus": "3.00%",
-            "previous": "3.00%"
+            "consensus": "80.4",
+            "previous": "81.9"
           },
           {
             "id": "4",
-            "name": "UK Unemployment Rate",
-            "description": "Share of the UK labour force without work; influences BoE rate and wage-growth expectations.",
+            "name": "US Durable Goods Orders (M-o-M)",
+            "description": "Monthly change in new orders for long-lasting manufactured goods; signals business investment and factory demand.",
             "actual": "",
-            "consensus": "",
-            "previous": "5.0%"
+            "consensus": "1.4%",
+            "previous": "-0.1%"
           }
         ]
       },
       {
-        "date": "2026-10-21",
+        "date": "2026-10-28",
         "events": [
           {
             "id": "5",
-            "name": "UK CPI (Y-o-Y)",
-            "description": "Annual change in UK consumer prices, the BoE's main inflation gauge and a driver of rate expectations.",
+            "name": "US Fed Interest Rate Decision",
+            "description": "FOMC announces the federal funds target range; the key driver of global rates, the dollar and risk assets.",
             "actual": "",
-            "consensus": "3.4%",
-            "previous": "3.1%"
+            "consensus": "3.75%-4.00%",
+            "previous": "3.75%-4.00%"
           },
           {
             "id": "6",
-            "name": "New Zealand CPI (Q-o-Q)",
-            "description": "Quarterly change in New Zealand consumer prices; guides RBNZ policy and NZ dollar direction.",
+            "name": "Canada BoC Interest Rate Decision",
+            "description": "Bank of Canada sets its overnight policy rate, shaping CAD and North American rate expectations.",
             "actual": "",
             "consensus": "",
             "previous": ""
@@ -67,44 +67,44 @@
         ]
       },
       {
-        "date": "2026-10-22",
+        "date": "2026-10-29",
         "events": [
           {
             "id": "7",
-            "name": "US Initial Jobless Claims",
-            "description": "Weekly count of new US unemployment benefit filings; a timely indicator of labour market health.",
+            "name": "US GDP (Q-o-Q, Advance Q3)",
+            "description": "First estimate of annualized US economic growth for Q3; the broadest gauge of activity and growth momentum.",
             "actual": "",
-            "consensus": "",
+            "consensus": "3.0%",
             "previous": ""
           },
           {
             "id": "8",
-            "name": "US Leading Index (M-o-M)",
-            "description": "Composite of forward-looking US indicators, used to gauge the economic outlook.",
+            "name": "ECB Interest Rate Decision",
+            "description": "ECB sets the deposit facility rate for the Eurozone, steering euro rates amid energy-driven inflation risks.",
             "actual": "",
-            "consensus": "",
-            "previous": ""
+            "consensus": "2.50%",
+            "previous": "2.50%"
           }
         ]
       },
       {
-        "date": "2026-10-23",
+        "date": "2026-10-30",
         "events": [
           {
             "id": "9",
-            "name": "US Manufacturing PMI (Flash)",
-            "description": "Preliminary S&P Global survey of US factory activity; readings above 50 signal expansion.",
+            "name": "Eurozone GDP (Q-o-Q, Flash Q3)",
+            "description": "Preliminary quarterly change in Eurozone output; shows how the bloc is coping with energy costs and weak confidence.",
             "actual": "",
             "consensus": "",
-            "previous": "57.0"
+            "previous": "0.6%"
           },
           {
             "id": "10",
-            "name": "Eurozone Services PMI (Flash)",
-            "description": "Preliminary S&P Global survey of Eurozone service-sector activity; an early read on growth and ECB policy.",
+            "name": "Japan BoJ Interest Rate Decision",
+            "description": "Bank of Japan announces its policy rate and guidance; a major driver of the yen and global yields.",
             "actual": "",
             "consensus": "",
-            "previous": "53.0"
+            "previous": "1.25%"
           }
         ]
       }
