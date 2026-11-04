@@ -1,110 +1,110 @@
 [
   {
-    "week": 42,
-    "weekTitle": "Week of October 26-30, 2026",
+    "week": 43,
+    "weekTitle": "Week of November 2-6, 2026",
     "days": [
       {
-        "date": "2026-10-26",
+        "date": "2026-11-02",
         "events": [
           {
             "id": "1",
-            "name": "Germany Ifo Business Climate",
-            "description": "Survey of German firms' current conditions and expectations; a leading indicator for Eurozone's largest economy.",
+            "name": "US ISM Manufacturing PMI",
+            "description": "Survey of purchasing managers gauging US factory activity; a timely read on growth and price pressures.",
             "actual": "",
-            "consensus": "",
-            "previous": "89.9"
+            "consensus": "54.7",
+            "previous": "54.5"
           },
           {
             "id": "2",
-            "name": "US Dallas Fed Manufacturing Index",
-            "description": "Texas factory activity survey; an early read on US manufacturing conditions ahead of national data.",
+            "name": "China Manufacturing PMI",
+            "description": "Monthly survey of Chinese factory conditions; a key gauge of momentum in the world's second-largest economy.",
             "actual": "",
-            "consensus": "7",
-            "previous": "9.8"
+            "consensus": "",
+            "previous": ""
           }
         ]
       },
       {
-        "date": "2026-10-27",
+        "date": "2026-11-03",
         "events": [
           {
             "id": "3",
-            "name": "US CB Consumer Confidence",
-            "description": "Conference Board survey of household sentiment on jobs and business conditions; guides consumer spending outlook.",
+            "name": "Australia RBA Interest Rate Decision",
+            "description": "Reserve Bank of Australia sets the cash rate; markets price a likely hike after recent tightening.",
             "actual": "",
-            "consensus": "80.4",
-            "previous": "81.9"
+            "consensus": "4.85%",
+            "previous": "4.60%"
           },
           {
             "id": "4",
-            "name": "US Durable Goods Orders (M-o-M)",
-            "description": "Monthly change in new orders for long-lasting manufactured goods; signals business investment and factory demand.",
+            "name": "US JOLTS Job Openings",
+            "description": "Count of unfilled US jobs; shows labour demand strength ahead of Friday's payrolls report.",
             "actual": "",
-            "consensus": "1.4%",
-            "previous": "-0.1%"
+            "consensus": "",
+            "previous": ""
           }
         ]
       },
       {
-        "date": "2026-10-28",
+        "date": "2026-11-04",
         "events": [
           {
             "id": "5",
-            "name": "US Fed Interest Rate Decision",
-            "description": "FOMC announces the federal funds target range; the key driver of global rates, the dollar and risk assets.",
+            "name": "Eurozone CPI Flash (Y-o-Y)",
+            "description": "Preliminary euro area consumer inflation estimate; central to ECB policy expectations and euro direction.",
             "actual": "",
-            "consensus": "3.75%-4.00%",
-            "previous": "3.75%-4.00%"
+            "consensus": "3.9%",
+            "previous": "3.8%"
           },
           {
             "id": "6",
-            "name": "Canada BoC Interest Rate Decision",
-            "description": "Bank of Canada sets its overnight policy rate, shaping CAD and North American rate expectations.",
+            "name": "US ISM Services PMI",
+            "description": "Survey of US services-sector activity, the largest part of the economy; signals growth and price trends.",
             "actual": "",
-            "consensus": "",
-            "previous": ""
+            "consensus": "54.7",
+            "previous": "54.9"
           }
         ]
       },
       {
-        "date": "2026-10-29",
+        "date": "2026-11-05",
         "events": [
           {
             "id": "7",
-            "name": "US GDP (Q-o-Q, Advance Q3)",
-            "description": "First estimate of annualized US economic growth for Q3; the broadest gauge of activity and growth momentum.",
+            "name": "UK BoE Interest Rate Decision",
+            "description": "Bank of England sets Bank Rate with a new Monetary Policy Report; a hike to 4.00% is widely expected.",
             "actual": "",
-            "consensus": "3.0%",
-            "previous": ""
+            "consensus": "4.00%",
+            "previous": "3.75%"
           },
           {
             "id": "8",
-            "name": "ECB Interest Rate Decision",
-            "description": "ECB sets the deposit facility rate for the Eurozone, steering euro rates amid energy-driven inflation risks.",
+            "name": "US Initial Jobless Claims",
+            "description": "Weekly count of new US unemployment filings; a high-frequency indicator of labour market health.",
             "actual": "",
-            "consensus": "2.50%",
-            "previous": "2.50%"
+            "consensus": "",
+            "previous": ""
           }
         ]
       },
       {
-        "date": "2026-10-30",
+        "date": "2026-11-06",
         "events": [
           {
             "id": "9",
-            "name": "Eurozone GDP (Q-o-Q, Flash Q3)",
-            "description": "Preliminary quarterly change in Eurozone output; shows how the bloc is coping with energy costs and weak confidence.",
+            "name": "US Nonfarm Payrolls (NFP)",
+            "description": "Monthly change in US non-farm jobs; the most market-moving gauge of labour strength and Fed policy.",
             "actual": "",
-            "consensus": "",
-            "previous": "0.6%"
+            "consensus": "63K",
+            "previous": "29K"
           },
           {
             "id": "10",
-            "name": "Japan BoJ Interest Rate Decision",
-            "description": "Bank of Japan announces its policy rate and guidance; a major driver of the yen and global yields.",
+            "name": "US Unemployment Rate",
+            "description": "Share of the US labour force without work; a core Fed mandate indicator alongside payrolls.",
             "actual": "",
-            "consensus": "",
-            "previous": "1.25%"
+            "consensus": "4.2%",
+            "previous": "4.2%"
           }
         ]
       }
