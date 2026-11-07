@@ -1,23 +1,23 @@
 [
   {
-    "week": 43,
-    "weekTitle": "Week of November 2-6, 2026",
+    "week": 44,
+    "weekTitle": "Week of November 9-13, 2026",
     "days": [
       {
-        "date": "2026-11-02",
+        "date": "2026-11-09",
         "events": [
           {
             "id": "1",
-            "name": "US ISM Manufacturing PMI",
-            "description": "Survey of purchasing managers gauging US factory activity; a timely read on growth and price pressures.",
+            "name": "China CPI (Y-o-Y)",
+            "description": "Measures year-on-year change in Chinese consumer prices; key gauge of domestic demand and deflation risk.",
             "actual": "",
-            "consensus": "54.7",
-            "previous": "54.5"
+            "consensus": "",
+            "previous": ""
           },
           {
             "id": "2",
-            "name": "China Manufacturing PMI",
-            "description": "Monthly survey of Chinese factory conditions; a key gauge of momentum in the world's second-largest economy.",
+            "name": "China PPI (Y-o-Y)",
+            "description": "Tracks factory-gate price changes in China, signalling industrial demand and upstream deflationary pressure.",
             "actual": "",
             "consensus": "",
             "previous": ""
@@ -25,20 +25,20 @@
         ]
       },
       {
-        "date": "2026-11-03",
+        "date": "2026-11-10",
         "events": [
           {
             "id": "3",
-            "name": "Australia RBA Interest Rate Decision",
-            "description": "Reserve Bank of Australia sets the cash rate; markets price a likely hike after recent tightening.",
+            "name": "US CPI (Y-o-Y)",
+            "description": "Annual change in US consumer prices for October; the main driver of Fed rate expectations.",
             "actual": "",
-            "consensus": "4.85%",
-            "previous": "4.60%"
+            "consensus": "",
+            "previous": "3.7%"
           },
           {
             "id": "4",
-            "name": "US JOLTS Job Openings",
-            "description": "Count of unfilled US jobs; shows labour demand strength ahead of Friday's payrolls report.",
+            "name": "UK Unemployment Rate",
+            "description": "ILO measure of UK joblessness; shapes Bank of England views on wage pressure and rate path.",
             "actual": "",
             "consensus": "",
             "previous": ""
@@ -46,41 +46,41 @@
         ]
       },
       {
-        "date": "2026-11-04",
+        "date": "2026-11-11",
         "events": [
           {
             "id": "5",
-            "name": "Eurozone CPI Flash (Y-o-Y)",
-            "description": "Preliminary euro area consumer inflation estimate; central to ECB policy expectations and euro direction.",
+            "name": "Germany CPI (Y-o-Y, Final)",
+            "description": "Final October inflation reading for Europe's largest economy, informing ECB policy expectations.",
             "actual": "",
-            "consensus": "3.9%",
-            "previous": "3.8%"
+            "consensus": "",
+            "previous": ""
           },
           {
             "id": "6",
-            "name": "US ISM Services PMI",
-            "description": "Survey of US services-sector activity, the largest part of the economy; signals growth and price trends.",
+            "name": "Japan PPI (Y-o-Y)",
+            "description": "Corporate goods price index measuring wholesale inflation in Japan, relevant to BoJ policy decisions.",
             "actual": "",
-            "consensus": "54.7",
-            "previous": "54.9"
+            "consensus": "",
+            "previous": ""
           }
         ]
       },
       {
-        "date": "2026-11-05",
+        "date": "2026-11-12",
         "events": [
           {
             "id": "7",
-            "name": "UK BoE Interest Rate Decision",
-            "description": "Bank of England sets Bank Rate with a new Monetary Policy Report; a hike to 4.00% is widely expected.",
+            "name": "UK GDP (Q-o-Q)",
+            "description": "First estimate of UK Q3 economic growth; central to Bank of England outlook and sterling.",
             "actual": "",
-            "consensus": "4.00%",
-            "previous": "3.75%"
+            "consensus": "",
+            "previous": "0.5%"
           },
           {
             "id": "8",
             "name": "US Initial Jobless Claims",
-            "description": "Weekly count of new US unemployment filings; a high-frequency indicator of labour market health.",
+            "description": "Weekly count of new US unemployment filings; timely read on labour-market health.",
             "actual": "",
             "consensus": "",
             "previous": ""
@@ -88,23 +88,23 @@
         ]
       },
       {
-        "date": "2026-11-06",
+        "date": "2026-11-13",
         "events": [
           {
             "id": "9",
-            "name": "US Nonfarm Payrolls (NFP)",
-            "description": "Monthly change in US non-farm jobs; the most market-moving gauge of labour strength and Fed policy.",
+            "name": "Eurozone GDP (Q-o-Q)",
+            "description": "Updated Q3 estimate of Eurozone output growth; shapes ECB assessment of economic momentum.",
             "actual": "",
-            "consensus": "63K",
-            "previous": "29K"
+            "consensus": "",
+            "previous": "0.4%"
           },
           {
             "id": "10",
-            "name": "US Unemployment Rate",
-            "description": "Share of the US labour force without work; a core Fed mandate indicator alongside payrolls.",
+            "name": "US PPI (Y-o-Y)",
+            "description": "Annual change in US producer prices for October; a leading indicator of consumer inflation pressures.",
             "actual": "",
-            "consensus": "4.2%",
-            "previous": "4.2%"
+            "consensus": "",
+            "previous": ""
           }
         ]
       }
