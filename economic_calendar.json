@@ -1,110 +1,110 @@
 [
   {
-    "week": 43,
-    "weekTitle": "Week of November 2-6, 2026",
+    "week": 45,
+    "weekTitle": "Week of November 16-20, 2026",
     "days": [
       {
-        "date": "2026-11-02",
+        "date": "2026-11-16",
         "events": [
           {
             "id": "1",
-            "name": "US ISM Manufacturing PMI",
-            "description": "Survey of purchasing managers gauging US factory activity; a timely read on growth and price pressures.",
+            "name": "Japan GDP (Q-o-Q)",
+            "description": "Preliminary Q3 change in Japan's economic output; key input for the BoJ's next rate-hike decision.",
             "actual": "",
-            "consensus": "54.7",
-            "previous": "54.5"
+            "consensus": "",
+            "previous": "0.3%"
           },
           {
             "id": "2",
-            "name": "China Manufacturing PMI",
-            "description": "Monthly survey of Chinese factory conditions; a key gauge of momentum in the world's second-largest economy.",
+            "name": "China Industrial Production (Y-o-Y)",
+            "description": "Annual growth in Chinese factory, mining and utility output; a core gauge of China's economic momentum.",
             "actual": "",
             "consensus": "",
-            "previous": ""
+            "previous": "5.5%"
           }
         ]
       },
       {
-        "date": "2026-11-03",
+        "date": "2026-11-17",
         "events": [
           {
             "id": "3",
-            "name": "Australia RBA Interest Rate Decision",
-            "description": "Reserve Bank of Australia sets the cash rate; markets price a likely hike after recent tightening.",
+            "name": "US Retail Sales (M-o-M)",
+            "description": "Monthly change in US retail spending; a key read on consumer demand, which drives most of GDP.",
             "actual": "",
-            "consensus": "4.85%",
-            "previous": "4.60%"
+            "consensus": "",
+            "previous": "0.8%"
           },
           {
             "id": "4",
-            "name": "US JOLTS Job Openings",
-            "description": "Count of unfilled US jobs; shows labour demand strength ahead of Friday's payrolls report.",
+            "name": "UK Unemployment Rate",
+            "description": "Share of the UK labour force out of work; shapes BoE views on wage pressure and rates.",
             "actual": "",
             "consensus": "",
-            "previous": ""
+            "previous": "4.7%"
           }
         ]
       },
       {
-        "date": "2026-11-04",
+        "date": "2026-11-18",
         "events": [
           {
             "id": "5",
-            "name": "Eurozone CPI Flash (Y-o-Y)",
-            "description": "Preliminary euro area consumer inflation estimate; central to ECB policy expectations and euro direction.",
+            "name": "UK CPI (Y-o-Y)",
+            "description": "Annual change in UK consumer prices; the headline inflation gauge guiding Bank of England policy decisions.",
             "actual": "",
-            "consensus": "3.9%",
-            "previous": "3.8%"
+            "consensus": "",
+            "previous": "3.5%"
           },
           {
             "id": "6",
-            "name": "US ISM Services PMI",
-            "description": "Survey of US services-sector activity, the largest part of the economy; signals growth and price trends.",
+            "name": "Eurozone CPI (Y-o-Y)",
+            "description": "Final October reading of euro-area consumer inflation; confirms price pressure facing the ECB at 4%.",
             "actual": "",
-            "consensus": "54.7",
-            "previous": "54.9"
+            "consensus": "4.0%",
+            "previous": "3.8%"
           }
         ]
       },
       {
-        "date": "2026-11-05",
+        "date": "2026-11-19",
         "events": [
           {
             "id": "7",
-            "name": "UK BoE Interest Rate Decision",
-            "description": "Bank of England sets Bank Rate with a new Monetary Policy Report; a hike to 4.00% is widely expected.",
+            "name": "US Initial Jobless Claims",
+            "description": "Weekly count of new US unemployment benefit filings; a timely, high-frequency signal of labour market health.",
             "actual": "",
-            "consensus": "4.00%",
-            "previous": "3.75%"
+            "consensus": "",
+            "previous": "200K"
           },
           {
             "id": "8",
-            "name": "US Initial Jobless Claims",
-            "description": "Weekly count of new US unemployment filings; a high-frequency indicator of labour market health.",
+            "name": "US Philadelphia Fed Manufacturing Index",
+            "description": "Survey of factory conditions in the Philadelphia Fed district; an early indicator of US manufacturing trends.",
             "actual": "",
             "consensus": "",
-            "previous": ""
+            "previous": "20.9"
           }
         ]
       },
       {
-        "date": "2026-11-06",
+        "date": "2026-11-20",
         "events": [
           {
             "id": "9",
-            "name": "US Nonfarm Payrolls (NFP)",
-            "description": "Monthly change in US non-farm jobs; the most market-moving gauge of labour strength and Fed policy.",
+            "name": "China Loan Prime Rate (1Y)",
+            "description": "PBoC-guided benchmark lending rate for Chinese borrowers; signals the stance of Beijing's monetary policy support.",
             "actual": "",
-            "consensus": "63K",
-            "previous": "29K"
+            "consensus": "",
+            "previous": "3.00%"
           },
           {
             "id": "10",
-            "name": "US Unemployment Rate",
-            "description": "Share of the US labour force without work; a core Fed mandate indicator alongside payrolls.",
+            "name": "Japan CPI (Y-o-Y)",
+            "description": "Annual change in Japan's nationwide consumer prices; a key test of whether inflation justifies further BoJ hikes.",
             "actual": "",
-            "consensus": "4.2%",
-            "previous": "4.2%"
+            "consensus": "",
+            "previous": "2.1%"
           }
         ]
       }
