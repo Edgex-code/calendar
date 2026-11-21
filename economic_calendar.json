@@ -1,110 +1,110 @@
 [
   {
-    "week": 45,
-    "weekTitle": "Week of November 16-20, 2026",
+    "week": 46,
+    "weekTitle": "Week of November 23-27, 2026",
     "days": [
       {
-        "date": "2026-11-16",
+        "date": "2026-11-23",
         "events": [
           {
             "id": "1",
-            "name": "Japan GDP (Q-o-Q)",
-            "description": "Preliminary Q3 change in Japan's economic output; key input for the BoJ's next rate-hike decision.",
+            "name": "Eurozone Services PMI",
+            "description": "Flash survey of Eurozone services activity; the bloc's largest sector and a key input for ECB policy.",
             "actual": "",
-            "consensus": "",
-            "previous": "0.3%"
+            "consensus": "51.1",
+            "previous": "51.4"
           },
           {
             "id": "2",
-            "name": "China Industrial Production (Y-o-Y)",
-            "description": "Annual growth in Chinese factory, mining and utility output; a core gauge of China's economic momentum.",
+            "name": "UK Services PMI",
+            "description": "Flash survey of UK services-sector activity; an early read on growth momentum for the BoE.",
             "actual": "",
-            "consensus": "",
-            "previous": "5.5%"
+            "consensus": "52.5",
+            "previous": "52.8"
           }
         ]
       },
       {
-        "date": "2026-11-17",
+        "date": "2026-11-24",
         "events": [
           {
             "id": "3",
-            "name": "US Retail Sales (M-o-M)",
-            "description": "Monthly change in US retail spending; a key read on consumer demand, which drives most of GDP.",
+            "name": "US CB Consumer Confidence",
+            "description": "Conference Board gauge of US household sentiment; signals consumer spending appetite heading into the holidays.",
             "actual": "",
-            "consensus": "",
-            "previous": "0.8%"
+            "consensus": "92.1",
+            "previous": "91.7"
           },
           {
             "id": "4",
-            "name": "UK Unemployment Rate",
-            "description": "Share of the UK labour force out of work; shapes BoE views on wage pressure and rates.",
+            "name": "Germany Ifo Business Climate",
+            "description": "Survey of German business sentiment; a leading indicator for Europe's largest economy and Eurozone growth.",
             "actual": "",
             "consensus": "",
-            "previous": "4.7%"
+            "previous": "90.2"
           }
         ]
       },
       {
-        "date": "2026-11-18",
+        "date": "2026-11-25",
         "events": [
           {
             "id": "5",
-            "name": "UK CPI (Y-o-Y)",
-            "description": "Annual change in UK consumer prices; the headline inflation gauge guiding Bank of England policy decisions.",
+            "name": "US GDP (Q-o-Q)",
+            "description": "Second estimate of Q3 US economic growth (annualised); a key read on economic strength ahead of the Fed.",
             "actual": "",
-            "consensus": "",
-            "previous": "3.5%"
+            "consensus": "3.5%",
+            "previous": "3.4%"
           },
           {
             "id": "6",
-            "name": "Eurozone CPI (Y-o-Y)",
-            "description": "Final October reading of euro-area consumer inflation; confirms price pressure facing the ECB at 4%.",
+            "name": "US Initial Jobless Claims",
+            "description": "Weekly count of new US unemployment filings, released early for Thanksgiving; a timely labour-market gauge.",
             "actual": "",
-            "consensus": "4.0%",
-            "previous": "3.8%"
+            "consensus": "",
+            "previous": "203K"
           }
         ]
       },
       {
-        "date": "2026-11-19",
+        "date": "2026-11-26",
         "events": [
           {
             "id": "7",
-            "name": "US Initial Jobless Claims",
-            "description": "Weekly count of new US unemployment benefit filings; a timely, high-frequency signal of labour market health.",
+            "name": "Japan Tokyo Core CPI (Y-o-Y)",
+            "description": "Tokyo consumer prices excluding fresh food; a leading indicator of national inflation and BoJ policy.",
             "actual": "",
             "consensus": "",
-            "previous": "200K"
+            "previous": "2.6%"
           },
           {
             "id": "8",
-            "name": "US Philadelphia Fed Manufacturing Index",
-            "description": "Survey of factory conditions in the Philadelphia Fed district; an early indicator of US manufacturing trends.",
+            "name": "ECB Monetary Policy Meeting Accounts",
+            "description": "Minutes of the ECB's October meeting; reveal policymakers' views on inflation risks and future rate moves.",
             "actual": "",
             "consensus": "",
-            "previous": "20.9"
+            "previous": ""
           }
         ]
       },
       {
-        "date": "2026-11-20",
+        "date": "2026-11-27",
         "events": [
           {
             "id": "9",
-            "name": "China Loan Prime Rate (1Y)",
-            "description": "PBoC-guided benchmark lending rate for Chinese borrowers; signals the stance of Beijing's monetary policy support.",
+            "name": "China Industrial Profits (Y-o-Y)",
+            "description": "Annual change in profits at major Chinese industrial firms; a gauge of corporate health and demand.",
             "actual": "",
             "consensus": "",
-            "previous": "3.00%"
+            "previous": "14.4%"
           },
           {
             "id": "10",
-            "name": "Japan CPI (Y-o-Y)",
-            "description": "Annual change in Japan's nationwide consumer prices; a key test of whether inflation justifies further BoJ hikes.",
+            "name": "France CPI (Y-o-Y)",
+            "description": "Preliminary annual change in French consumer prices; an early signal for Eurozone inflation and ECB policy.",
             "actual": "",
             "consensus": "",
-            "previous": "2.1%"
+            "previous": "3.4%"
           }
         ]
       }
